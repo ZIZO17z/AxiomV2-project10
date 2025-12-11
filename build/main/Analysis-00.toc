@@ -1,0 +1,4389 @@
+(['D:\\Programing_projects\\AxiomV2 project10\\main.py'],
+ ['D:\\Programing_projects\\AxiomV2 project10'],
+ [],
+ [('D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\Lib\\site-packages\\numpy\\_pyinstaller',
+   0),
+  ('D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\__pyinstaller',
+   0),
+  ('D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks',
+   -1000),
+  ('D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\_pyinstaller_hooks_contrib',
+   -1000)],
+ {},
+ [],
+ [],
+ False,
+ {},
+ 0,
+ [],
+ [],
+ '3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_inspect',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('main', 'D:\\Programing_projects\\AxiomV2 project10\\main.py', 'PYSOURCE')],
+ [('pkg_resources',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('typing', 'C:\\Python310\\lib\\typing.py', 'PYMODULE'),
+  ('contextlib', 'C:\\Python310\\lib\\contextlib.py', 'PYMODULE'),
+  ('__future__', 'C:\\Python310\\lib\\__future__.py', 'PYMODULE'),
+  ('packaging.utils',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('subprocess', 'C:\\Python310\\lib\\subprocess.py', 'PYMODULE'),
+  ('selectors', 'C:\\Python310\\lib\\selectors.py', 'PYMODULE'),
+  ('threading', 'C:\\Python310\\lib\\threading.py', 'PYMODULE'),
+  ('_threading_local', 'C:\\Python310\\lib\\_threading_local.py', 'PYMODULE'),
+  ('signal', 'C:\\Python310\\lib\\signal.py', 'PYMODULE'),
+  ('struct', 'C:\\Python310\\lib\\struct.py', 'PYMODULE'),
+  ('logging', 'C:\\Python310\\lib\\logging\\__init__.py', 'PYMODULE'),
+  ('pickle', 'C:\\Python310\\lib\\pickle.py', 'PYMODULE'),
+  ('pprint', 'C:\\Python310\\lib\\pprint.py', 'PYMODULE'),
+  ('dataclasses', 'C:\\Python310\\lib\\dataclasses.py', 'PYMODULE'),
+  ('copy', 'C:\\Python310\\lib\\copy.py', 'PYMODULE'),
+  ('_compat_pickle', 'C:\\Python310\\lib\\_compat_pickle.py', 'PYMODULE'),
+  ('string', 'C:\\Python310\\lib\\string.py', 'PYMODULE'),
+  ('packaging.specifiers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('email.policy', 'C:\\Python310\\lib\\email\\policy.py', 'PYMODULE'),
+  ('email', 'C:\\Python310\\lib\\email\\__init__.py', 'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Python310\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Python310\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64', 'C:\\Python310\\lib\\base64.py', 'PYMODULE'),
+  ('getopt', 'C:\\Python310\\lib\\getopt.py', 'PYMODULE'),
+  ('gettext', 'C:\\Python310\\lib\\gettext.py', 'PYMODULE'),
+  ('urllib', 'C:\\Python310\\lib\\urllib\\__init__.py', 'PYMODULE'),
+  ('email.charset', 'C:\\Python310\\lib\\email\\charset.py', 'PYMODULE'),
+  ('email.encoders', 'C:\\Python310\\lib\\email\\encoders.py', 'PYMODULE'),
+  ('quopri', 'C:\\Python310\\lib\\quopri.py', 'PYMODULE'),
+  ('email.quoprimime', 'C:\\Python310\\lib\\email\\quoprimime.py', 'PYMODULE'),
+  ('email.base64mime', 'C:\\Python310\\lib\\email\\base64mime.py', 'PYMODULE'),
+  ('email.errors', 'C:\\Python310\\lib\\email\\errors.py', 'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Python310\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Python310\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.utils', 'C:\\Python310\\lib\\email\\utils.py', 'PYMODULE'),
+  ('email._parseaddr', 'C:\\Python310\\lib\\email\\_parseaddr.py', 'PYMODULE'),
+  ('calendar', 'C:\\Python310\\lib\\calendar.py', 'PYMODULE'),
+  ('argparse', 'C:\\Python310\\lib\\argparse.py', 'PYMODULE'),
+  ('shutil', 'C:\\Python310\\lib\\shutil.py', 'PYMODULE'),
+  ('tarfile', 'C:\\Python310\\lib\\tarfile.py', 'PYMODULE'),
+  ('gzip', 'C:\\Python310\\lib\\gzip.py', 'PYMODULE'),
+  ('_compression', 'C:\\Python310\\lib\\_compression.py', 'PYMODULE'),
+  ('lzma', 'C:\\Python310\\lib\\lzma.py', 'PYMODULE'),
+  ('bz2', 'C:\\Python310\\lib\\bz2.py', 'PYMODULE'),
+  ('fnmatch', 'C:\\Python310\\lib\\fnmatch.py', 'PYMODULE'),
+  ('urllib.parse', 'C:\\Python310\\lib\\urllib\\parse.py', 'PYMODULE'),
+  ('datetime', 'C:\\Python310\\lib\\datetime.py', 'PYMODULE'),
+  ('_strptime', 'C:\\Python310\\lib\\_strptime.py', 'PYMODULE'),
+  ('socket', 'C:\\Python310\\lib\\socket.py', 'PYMODULE'),
+  ('email._policybase',
+   'C:\\Python310\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.message', 'C:\\Python310\\lib\\email\\message.py', 'PYMODULE'),
+  ('email.iterators', 'C:\\Python310\\lib\\email\\iterators.py', 'PYMODULE'),
+  ('email.generator', 'C:\\Python310\\lib\\email\\generator.py', 'PYMODULE'),
+  ('uu', 'C:\\Python310\\lib\\uu.py', 'PYMODULE'),
+  ('optparse', 'C:\\Python310\\lib\\optparse.py', 'PYMODULE'),
+  ('email.header', 'C:\\Python310\\lib\\email\\header.py', 'PYMODULE'),
+  ('email.feedparser', 'C:\\Python310\\lib\\email\\feedparser.py', 'PYMODULE'),
+  ('packaging.markers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.licenses._spdx',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\packaging\\licenses\\_spdx.py',
+   'PYMODULE'),
+  ('packaging.licenses',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\packaging\\licenses\\__init__.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('ast', 'C:\\Python310\\lib\\ast.py', 'PYMODULE'),
+  ('packaging._musllinux',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('ctypes', 'C:\\Python310\\lib\\ctypes\\__init__.py', 'PYMODULE'),
+  ('ctypes._endian', 'C:\\Python310\\lib\\ctypes\\_endian.py', 'PYMODULE'),
+  ('packaging._elffile',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.zipp',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.util',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\util.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.unicode',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\unicode.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.testing',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\testing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.results',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\results.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.helpers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\helpers.py',
+   'PYMODULE'),
+  ('html.entities', 'C:\\Python310\\lib\\html\\entities.py', 'PYMODULE'),
+  ('html', 'C:\\Python310\\lib\\html\\__init__.py', 'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.exceptions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\exceptions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.core',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\core.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.diagram',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\diagram\\__init__.py',
+   'PYMODULE'),
+  ('pdb', 'C:\\Python310\\lib\\pdb.py', 'PYMODULE'),
+  ('pydoc', 'C:\\Python310\\lib\\pydoc.py', 'PYMODULE'),
+  ('webbrowser', 'C:\\Python310\\lib\\webbrowser.py', 'PYMODULE'),
+  ('http.server', 'C:\\Python310\\lib\\http\\server.py', 'PYMODULE'),
+  ('http', 'C:\\Python310\\lib\\http\\__init__.py', 'PYMODULE'),
+  ('socketserver', 'C:\\Python310\\lib\\socketserver.py', 'PYMODULE'),
+  ('mimetypes', 'C:\\Python310\\lib\\mimetypes.py', 'PYMODULE'),
+  ('http.client', 'C:\\Python310\\lib\\http\\client.py', 'PYMODULE'),
+  ('ssl', 'C:\\Python310\\lib\\ssl.py', 'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Python310\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data', 'C:\\Python310\\lib\\pydoc_data\\__init__.py', 'PYMODULE'),
+  ('tty', 'C:\\Python310\\lib\\tty.py', 'PYMODULE'),
+  ('importlib.util', 'C:\\Python310\\lib\\importlib\\util.py', 'PYMODULE'),
+  ('importlib._abc', 'C:\\Python310\\lib\\importlib\\_abc.py', 'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Python310\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Python310\\lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc', 'C:\\Python310\\lib\\importlib\\abc.py', 'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Python310\\lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Python310\\lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Python310\\lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Python310\\lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Python310\\lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Python310\\lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('csv', 'C:\\Python310\\lib\\csv.py', 'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Python310\\lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Python310\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('runpy', 'C:\\Python310\\lib\\runpy.py', 'PYMODULE'),
+  ('shlex', 'C:\\Python310\\lib\\shlex.py', 'PYMODULE'),
+  ('tokenize', 'C:\\Python310\\lib\\tokenize.py', 'PYMODULE'),
+  ('token', 'C:\\Python310\\lib\\token.py', 'PYMODULE'),
+  ('glob', 'C:\\Python310\\lib\\glob.py', 'PYMODULE'),
+  ('code', 'C:\\Python310\\lib\\code.py', 'PYMODULE'),
+  ('codeop', 'C:\\Python310\\lib\\codeop.py', 'PYMODULE'),
+  ('dis', 'C:\\Python310\\lib\\dis.py', 'PYMODULE'),
+  ('opcode', 'C:\\Python310\\lib\\opcode.py', 'PYMODULE'),
+  ('bdb', 'C:\\Python310\\lib\\bdb.py', 'PYMODULE'),
+  ('cmd', 'C:\\Python310\\lib\\cmd.py', 'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.common',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.actions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\actions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._musllinux',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._manylinux',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.recipes',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.more',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('queue', 'C:\\Python310\\lib\\queue.py', 'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.text',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Python310\\lib\\importlib\\resources.py',
+   'PYMODULE'),
+  ('importlib._common',
+   'C:\\Python310\\lib\\importlib\\_common.py',
+   'PYMODULE'),
+  ('importlib._adapters',
+   'C:\\Python310\\lib\\importlib\\_adapters.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.functools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.context',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.simple',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.readers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.abc',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._legacy',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._itertools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._compat',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._common',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._adapters',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('sysconfig', 'C:\\Python310\\lib\\sysconfig.py', 'PYMODULE'),
+  ('_aix_support', 'C:\\Python310\\lib\\_aix_support.py', 'PYMODULE'),
+  ('_bootsubprocess', 'C:\\Python310\\lib\\_bootsubprocess.py', 'PYMODULE'),
+  ('pkg_resources.extern',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Python310\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('imp', 'C:\\Python310\\lib\\imp.py', 'PYMODULE'),
+  ('importlib', 'C:\\Python310\\lib\\importlib\\__init__.py', 'PYMODULE'),
+  ('inspect', 'C:\\Python310\\lib\\inspect.py', 'PYMODULE'),
+  ('textwrap', 'C:\\Python310\\lib\\textwrap.py', 'PYMODULE'),
+  ('tempfile', 'C:\\Python310\\lib\\tempfile.py', 'PYMODULE'),
+  ('email.parser', 'C:\\Python310\\lib\\email\\parser.py', 'PYMODULE'),
+  ('plistlib', 'C:\\Python310\\lib\\plistlib.py', 'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Python310\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers', 'C:\\Python310\\lib\\xml\\parsers\\__init__.py', 'PYMODULE'),
+  ('xml', 'C:\\Python310\\lib\\xml\\__init__.py', 'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Python310\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils', 'C:\\Python310\\lib\\xml\\sax\\saxutils.py', 'PYMODULE'),
+  ('urllib.request', 'C:\\Python310\\lib\\urllib\\request.py', 'PYMODULE'),
+  ('getpass', 'C:\\Python310\\lib\\getpass.py', 'PYMODULE'),
+  ('nturl2path', 'C:\\Python310\\lib\\nturl2path.py', 'PYMODULE'),
+  ('ftplib', 'C:\\Python310\\lib\\ftplib.py', 'PYMODULE'),
+  ('netrc', 'C:\\Python310\\lib\\netrc.py', 'PYMODULE'),
+  ('http.cookiejar', 'C:\\Python310\\lib\\http\\cookiejar.py', 'PYMODULE'),
+  ('urllib.response', 'C:\\Python310\\lib\\urllib\\response.py', 'PYMODULE'),
+  ('urllib.error', 'C:\\Python310\\lib\\urllib\\error.py', 'PYMODULE'),
+  ('hashlib', 'C:\\Python310\\lib\\hashlib.py', 'PYMODULE'),
+  ('bisect', 'C:\\Python310\\lib\\bisect.py', 'PYMODULE'),
+  ('xml.sax', 'C:\\Python310\\lib\\xml\\sax\\__init__.py', 'PYMODULE'),
+  ('xml.sax.handler', 'C:\\Python310\\lib\\xml\\sax\\handler.py', 'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Python310\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Python310\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('platform', 'C:\\Python310\\lib\\platform.py', 'PYMODULE'),
+  ('pkgutil', 'C:\\Python310\\lib\\pkgutil.py', 'PYMODULE'),
+  ('zipimport', 'C:\\Python310\\lib\\zipimport.py', 'PYMODULE'),
+  ('zipfile', 'C:\\Python310\\lib\\zipfile.py', 'PYMODULE'),
+  ('py_compile', 'C:\\Python310\\lib\\py_compile.py', 'PYMODULE'),
+  ('pathlib', 'C:\\Python310\\lib\\pathlib.py', 'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Python310\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Python310\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Python310\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Python310\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Python310\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Python310\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('xmlrpc.client', 'C:\\Python310\\lib\\xmlrpc\\client.py', 'PYMODULE'),
+  ('xmlrpc', 'C:\\Python310\\lib\\xmlrpc\\__init__.py', 'PYMODULE'),
+  ('decimal', 'C:\\Python310\\lib\\decimal.py', 'PYMODULE'),
+  ('_pydecimal', 'C:\\Python310\\lib\\_pydecimal.py', 'PYMODULE'),
+  ('contextvars', 'C:\\Python310\\lib\\contextvars.py', 'PYMODULE'),
+  ('numbers', 'C:\\Python310\\lib\\numbers.py', 'PYMODULE'),
+  ('hmac', 'C:\\Python310\\lib\\hmac.py', 'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Python310\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Python310\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Python310\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Python310\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Python310\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Python310\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Python310\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Python310\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Python310\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Python310\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Python310\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Python310\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Python310\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Python310\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets', 'C:\\Python310\\lib\\secrets.py', 'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Python310\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Python310\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Python310\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('tracemalloc', 'C:\\Python310\\lib\\tracemalloc.py', 'PYMODULE'),
+  ('stringprep', 'C:\\Python310\\lib\\stringprep.py', 'PYMODULE'),
+  ('_py_abc', 'C:\\Python310\\lib\\_py_abc.py', 'PYMODULE'),
+  ('random', 'C:\\Python310\\lib\\random.py', 'PYMODULE'),
+  ('statistics', 'C:\\Python310\\lib\\statistics.py', 'PYMODULE'),
+  ('fractions', 'C:\\Python310\\lib\\fractions.py', 'PYMODULE'),
+  ('numpy',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._dtype_ctypes',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.strings',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\strings\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core.strings',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\strings.py',
+   'PYMODULE'),
+  ('numpy._core.umath',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\umath.py',
+   'PYMODULE'),
+  ('numpy._core.overrides',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\overrides.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._core.multiarray',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._utils',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\core\\_utils.py',
+   'PYMODULE'),
+  ('numpy.char',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\char\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core.defchararray',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._core.numeric',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\numeric.py',
+   'PYMODULE'),
+  ('numpy._core._asarray',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy._core.arrayprint',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy._core.fromnumeric',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy._core._methods',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._core._exceptions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy._core._ufunc_config',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy._core.shape_base',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy._core.numerictypes',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy._core._dtype',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy._core._type_aliases',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy._core._string_helpers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.rec',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\rec\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core.records',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\records.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit_base',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_typing\\_nbit_base.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._ufunc',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_typing\\_ufunc.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._distutils',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\_backends\\_distutils.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._backend',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\_backends\\_backend.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._meson',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\_backends\\_meson.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py._isocbind',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\_isocbind.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('fileinput', 'C:\\Python310\\lib\\fileinput.py', 'PYMODULE'),
+  ('numpy.f2py.symbolic',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\symbolic.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.matlib',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\matlib.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('doctest', 'C:\\Python310\\lib\\doctest.py', 'PYMODULE'),
+  ('difflib', 'C:\\Python310\\lib\\difflib.py', 'PYMODULE'),
+  ('json', 'C:\\Python310\\lib\\json\\__init__.py', 'PYMODULE'),
+  ('json.encoder', 'C:\\Python310\\lib\\json\\encoder.py', 'PYMODULE'),
+  ('json.decoder', 'C:\\Python310\\lib\\json\\decoder.py', 'PYMODULE'),
+  ('json.scanner', 'C:\\Python310\\lib\\json\\scanner.py', 'PYMODULE'),
+  ('numpy._core.tests._natype',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\tests\\_natype.py',
+   'PYMODULE'),
+  ('numpy._core.tests', '-', 'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Python310\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Python310\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Python310\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Python310\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent', 'C:\\Python310\\lib\\concurrent\\__init__.py', 'PYMODULE'),
+  ('unittest.case', 'C:\\Python310\\lib\\unittest\\case.py', 'PYMODULE'),
+  ('unittest._log', 'C:\\Python310\\lib\\unittest\\_log.py', 'PYMODULE'),
+  ('unittest.util', 'C:\\Python310\\lib\\unittest\\util.py', 'PYMODULE'),
+  ('unittest.result', 'C:\\Python310\\lib\\unittest\\result.py', 'PYMODULE'),
+  ('numpy.testing._private',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('unittest', 'C:\\Python310\\lib\\unittest\\__init__.py', 'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Python310\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio', 'C:\\Python310\\lib\\asyncio\\__init__.py', 'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Python310\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log', 'C:\\Python310\\lib\\asyncio\\log.py', 'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Python310\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Python310\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Python310\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Python310\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Python310\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads', 'C:\\Python310\\lib\\asyncio\\threads.py', 'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Python310\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams', 'C:\\Python310\\lib\\asyncio\\streams.py', 'PYMODULE'),
+  ('asyncio.queues', 'C:\\Python310\\lib\\asyncio\\queues.py', 'PYMODULE'),
+  ('asyncio.runners', 'C:\\Python310\\lib\\asyncio\\runners.py', 'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Python310\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.trsock', 'C:\\Python310\\lib\\asyncio\\trsock.py', 'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Python310\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks', 'C:\\Python310\\lib\\asyncio\\tasks.py', 'PYMODULE'),
+  ('asyncio.locks', 'C:\\Python310\\lib\\asyncio\\locks.py', 'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Python310\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.mixins', 'C:\\Python310\\lib\\asyncio\\mixins.py', 'PYMODULE'),
+  ('asyncio.sslproto', 'C:\\Python310\\lib\\asyncio\\sslproto.py', 'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Python310\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Python310\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures', 'C:\\Python310\\lib\\asyncio\\futures.py', 'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Python310\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.events', 'C:\\Python310\\lib\\asyncio\\events.py', 'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Python310\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Python310\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Python310\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Python310\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals', 'C:\\Python310\\lib\\unittest\\signals.py', 'PYMODULE'),
+  ('unittest.main', 'C:\\Python310\\lib\\unittest\\main.py', 'PYMODULE'),
+  ('unittest.runner', 'C:\\Python310\\lib\\unittest\\runner.py', 'PYMODULE'),
+  ('unittest.loader', 'C:\\Python310\\lib\\unittest\\loader.py', 'PYMODULE'),
+  ('unittest.suite', 'C:\\Python310\\lib\\unittest\\suite.py', 'PYMODULE'),
+  ('numpy.exceptions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy._core._internal',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.lib.array_utils',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\array_utils.py',
+   'PYMODULE'),
+  ('numpy.lib._array_utils_impl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_array_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._helper',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.linalg._linalg',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\linalg\\_linalg.py',
+   'PYMODULE'),
+  ('numpy._array_api_info',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_array_api_info.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._index_tricks_impl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_index_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib._npyio_impl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_npyio_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib._polynomial_impl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_polynomial_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._stride_tricks_impl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_stride_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._utils_impl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraypad_impl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_arraypad_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._ufunclike_impl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_ufunclike_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraysetops_impl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_arraysetops_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._type_check_impl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_type_check_impl.py',
+   'PYMODULE'),
+  ('numpy._core.getlimits',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy._core._machar',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\_machar.py',
+   'PYMODULE'),
+  ('numpy.lib._shape_base_impl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_shape_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._twodim_base_impl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_twodim_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._function_base_impl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_function_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._nanfunctions_impl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_nanfunctions_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._histograms_impl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_histograms_impl.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib._scimath_impl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_scimath_impl.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core.function_base',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib._arrayterator_impl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\_arrayterator_impl.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.introspect',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\lib\\introspect.py',
+   'PYMODULE'),
+  ('numpy._core.printoptions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\printoptions.py',
+   'PYMODULE'),
+  ('numpy._core.memmap',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\memmap.py',
+   'PYMODULE'),
+  ('numpy._core',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs_scalars',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy._core.einsumfunc',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy._expired_attrs_2_0',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_expired_attrs_2_0.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('sympy.parsing.sympy_parser',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\parsing\\sympy_parser.py',
+   'PYMODULE'),
+  ('sympy.parsing',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\parsing\\__init__.py',
+   'PYMODULE'),
+  ('sympy.functions.elementary.miscellaneous',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\elementary\\miscellaneous.py',
+   'PYMODULE'),
+  ('sympy.functions.special.delta_functions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\special\\delta_functions.py',
+   'PYMODULE'),
+  ('sympy.functions.special.singularity_functions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\special\\singularity_functions.py',
+   'PYMODULE'),
+  ('sympy.functions.special',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\special\\__init__.py',
+   'PYMODULE'),
+  ('sympy.functions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\__init__.py',
+   'PYMODULE'),
+  ('sympy.functions.special.mathieu_functions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\special\\mathieu_functions.py',
+   'PYMODULE'),
+  ('sympy.functions.special.beta_functions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\special\\beta_functions.py',
+   'PYMODULE'),
+  ('sympy.integrals.integrals',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\integrals\\integrals.py',
+   'PYMODULE'),
+  ('sympy.integrals.trigonometry',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\integrals\\trigonometry.py',
+   'PYMODULE'),
+  ('sympy.integrals.meijerint',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\integrals\\meijerint.py',
+   'PYMODULE'),
+  ('sympy.simplify.radsimp',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\simplify\\radsimp.py',
+   'PYMODULE'),
+  ('sympy.simplify.sqrtdenest',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\simplify\\sqrtdenest.py',
+   'PYMODULE'),
+  ('sympy.core.assumptions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\assumptions.py',
+   'PYMODULE'),
+  ('sympy.core.assumptions_generated',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\assumptions_generated.py',
+   'PYMODULE'),
+  ('sympy.core.random',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\random.py',
+   'PYMODULE'),
+  ('sympy.core.facts',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\facts.py',
+   'PYMODULE'),
+  ('sympy.simplify.hyperexpand',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\simplify\\hyperexpand.py',
+   'PYMODULE'),
+  ('sympy.series',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\series\\__init__.py',
+   'PYMODULE'),
+  ('sympy.series.limitseq',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\series\\limitseq.py',
+   'PYMODULE'),
+  ('sympy.calculus.accumulationbounds',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\calculus\\accumulationbounds.py',
+   'PYMODULE'),
+  ('sympy.sets.sets',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\sets\\sets.py',
+   'PYMODULE'),
+  ('sympy.sets.handlers.functions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\sets\\handlers\\functions.py',
+   'PYMODULE'),
+  ('sympy.sets.handlers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\sets\\handlers\\__init__.py',
+   'PYMODULE'),
+  ('sympy.polys.polyutils',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\polyutils.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.modularinteger',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\modularinteger.py',
+   'PYMODULE'),
+  ('sympy.polys.domains',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\__init__.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.gmpyrationalfield',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\gmpyrationalfield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.groundtypes',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\groundtypes.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.pythonrationalfield',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\pythonrationalfield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.gmpyintegerring',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\gmpyintegerring.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.pythonintegerring',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\pythonintegerring.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.gmpyfinitefield',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\gmpyfinitefield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.pythonfinitefield',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\pythonfinitefield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.pythonrational',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\pythonrational.py',
+   'PYMODULE'),
+  ('sympy.external.pythonmpq',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\external\\pythonmpq.py',
+   'PYMODULE'),
+  ('sympy.external',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\external\\__init__.py',
+   'PYMODULE'),
+  ('sympy.external.importtools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\external\\importtools.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.expressionrawdomain',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\expressionrawdomain.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.simpledomain',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\simpledomain.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.field',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\field.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.ring',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\ring.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.quotientring',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\quotientring.py',
+   'PYMODULE'),
+  ('sympy.printing.str',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\str.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.permutations',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\permutations.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.perm_groups',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\perm_groups.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.pc_groups',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\pc_groups.py',
+   'PYMODULE'),
+  ('sympy.printing.defaults',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\defaults.py',
+   'PYMODULE'),
+  ('sympy.core._print_helpers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\_print_helpers.py',
+   'PYMODULE'),
+  ('sympy.printing.latex',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\latex.py',
+   'PYMODULE'),
+  ('sympy.categories',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\categories\\__init__.py',
+   'PYMODULE'),
+  ('sympy.categories.diagram_drawing',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\categories\\diagram_drawing.py',
+   'PYMODULE'),
+  ('sympy.printing.preview',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\preview.py',
+   'PYMODULE'),
+  ('sympy.categories.baseclasses',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\categories\\baseclasses.py',
+   'PYMODULE'),
+  ('sympy.physics.control',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\control\\__init__.py',
+   'PYMODULE'),
+  ('sympy.physics.control.control_plots',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\control\\control_plots.py',
+   'PYMODULE'),
+  ('sympy.geometry.polygon',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\geometry\\polygon.py',
+   'PYMODULE'),
+  ('sympy.logic',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\logic\\__init__.py',
+   'PYMODULE'),
+  ('sympy.logic.inference',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\logic\\inference.py',
+   'PYMODULE'),
+  ('sympy.logic.algorithms.z3_wrapper',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\logic\\algorithms\\z3_wrapper.py',
+   'PYMODULE'),
+  ('sympy.logic.algorithms',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\logic\\algorithms\\__init__.py',
+   'PYMODULE'),
+  ('sympy.assumptions.relation.equality',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\relation\\equality.py',
+   'PYMODULE'),
+  ('sympy.assumptions.relation',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\relation\\__init__.py',
+   'PYMODULE'),
+  ('sympy.assumptions.relation.binrel',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\relation\\binrel.py',
+   'PYMODULE'),
+  ('sympy.assumptions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\__init__.py',
+   'PYMODULE'),
+  ('sympy.assumptions.refine',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\refine.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.matexpr',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\matexpr.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.special',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\special.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.inverse',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\inverse.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.matpow',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\matpow.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.matadd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\matadd.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.trace',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\trace.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions._shape',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\_shape.py',
+   'PYMODULE'),
+  ('sympy.strategies',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\strategies\\__init__.py',
+   'PYMODULE'),
+  ('sympy.strategies.branch',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\strategies\\branch\\__init__.py',
+   'PYMODULE'),
+  ('sympy.strategies.branch.tools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\strategies\\branch\\tools.py',
+   'PYMODULE'),
+  ('sympy.strategies.branch.core',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\strategies\\branch\\core.py',
+   'PYMODULE'),
+  ('sympy.strategies.branch.traverse',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\strategies\\branch\\traverse.py',
+   'PYMODULE'),
+  ('sympy.strategies.tools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\strategies\\tools.py',
+   'PYMODULE'),
+  ('sympy.strategies.core',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\strategies\\core.py',
+   'PYMODULE'),
+  ('sympy.strategies.util',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\strategies\\util.py',
+   'PYMODULE'),
+  ('sympy.strategies.traverse',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\strategies\\traverse.py',
+   'PYMODULE'),
+  ('sympy.strategies.rl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\strategies\\rl.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.matmul',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\matmul.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.permutation',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\permutation.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.expressions.array_expressions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\array\\expressions\\array_expressions.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.expressions.utils',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\array\\expressions\\utils.py',
+   'PYMODULE'),
+  ('sympy.tensor.indexed',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\indexed.py',
+   'PYMODULE'),
+  ('sympy.tensor',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\__init__.py',
+   'PYMODULE'),
+  ('sympy.tensor.index_methods',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\index_methods.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.ndim_array',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\array\\ndim_array.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.dense_ndim_array',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\array\\dense_ndim_array.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.mutable_ndim_array',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\array\\mutable_ndim_array.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.arrayop',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\array\\arrayop.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.sparse_ndim_array',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\array\\sparse_ndim_array.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.diagonal',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\diagonal.py',
+   'PYMODULE'),
+  ('sympy.matrices.dense',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\dense.py',
+   'PYMODULE'),
+  ('sympy.matrices.solvers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\solvers.py',
+   'PYMODULE'),
+  ('sympy.matrices.determinant',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\determinant.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.ddm',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\matrices\\ddm.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.dfm',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\matrices\\dfm.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices._dfm',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\matrices\\_dfm.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.sdm',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\matrices\\sdm.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\matrices\\__init__.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.lll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\matrices\\lll.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.dense',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\matrices\\dense.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices._typing',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\matrices\\_typing.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.exceptions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\matrices\\exceptions.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.domainmatrix',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\matrices\\domainmatrix.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.rref',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\matrices\\rref.py',
+   'PYMODULE'),
+  ('sympy.polys.factortools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\factortools.py',
+   'PYMODULE'),
+  ('sympy.polys.polyconfig',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\polyconfig.py',
+   'PYMODULE'),
+  ('sympy.polys.sqfreetools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\sqfreetools.py',
+   'PYMODULE'),
+  ('sympy.polys.euclidtools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\euclidtools.py',
+   'PYMODULE'),
+  ('sympy.polys.galoistools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\galoistools.py',
+   'PYMODULE'),
+  ('sympy.polys.densetools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\densetools.py',
+   'PYMODULE'),
+  ('sympy.polys.densebasic',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\densebasic.py',
+   'PYMODULE'),
+  ('sympy.polys.orderings',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\orderings.py',
+   'PYMODULE'),
+  ('sympy.polys.monomials',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\monomials.py',
+   'PYMODULE'),
+  ('sympy.polys.densearith',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\densearith.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.domainscalar',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\matrices\\domainscalar.py',
+   'PYMODULE'),
+  ('sympy.polys.constructor',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\constructor.py',
+   'PYMODULE'),
+  ('sympy.polys.numberfields',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\numberfields\\__init__.py',
+   'PYMODULE'),
+  ('sympy.polys.numberfields.galoisgroups',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\numberfields\\galoisgroups.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.galois',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\galois.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.named_groups',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\named_groups.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.generators',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\generators.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.group_constructs',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\group_constructs.py',
+   'PYMODULE'),
+  ('sympy.polys.numberfields.galois_resolvents',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\numberfields\\galois_resolvents.py',
+   'PYMODULE'),
+  ('sympy.polys.numberfields.resolvent_lookup',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\numberfields\\resolvent_lookup.py',
+   'PYMODULE'),
+  ('sympy.utilities.lambdify',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\utilities\\lambdify.py',
+   'PYMODULE'),
+  ('sympy.simplify.cse_main',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\simplify\\cse_main.py',
+   'PYMODULE'),
+  ('sympy.simplify.cse_opts',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\simplify\\cse_opts.py',
+   'PYMODULE'),
+  ('sympy.polys.rootoftools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\rootoftools.py',
+   'PYMODULE'),
+  ('sympy.polys.rootisolation',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\rootisolation.py',
+   'PYMODULE'),
+  ('sympy.polys.rationaltools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\rationaltools.py',
+   'PYMODULE'),
+  ('sympy.polys.polyfuncs',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\polyfuncs.py',
+   'PYMODULE'),
+  ('sympy.printing.pytorch',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\pytorch.py',
+   'PYMODULE'),
+  ('sympy.codegen.cfunctions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\codegen\\cfunctions.py',
+   'PYMODULE'),
+  ('sympy.codegen',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\codegen\\__init__.py',
+   'PYMODULE'),
+  ('sympy.codegen.ast',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\codegen\\ast.py',
+   'PYMODULE'),
+  ('sympy.printing.tensorflow',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\tensorflow.py',
+   'PYMODULE'),
+  ('sympy.printing.lambdarepr',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\lambdarepr.py',
+   'PYMODULE'),
+  ('sympy.codegen.pynodes',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\codegen\\pynodes.py',
+   'PYMODULE'),
+  ('sympy.codegen.abstract_nodes',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\codegen\\abstract_nodes.py',
+   'PYMODULE'),
+  ('sympy.printing.numpy',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\numpy.py',
+   'PYMODULE'),
+  ('sympy.abc',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\abc.py',
+   'PYMODULE'),
+  ('sympy.printing.codeprinter',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\codeprinter.py',
+   'PYMODULE'),
+  ('sympy.printing.rust',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\rust.py',
+   'PYMODULE'),
+  ('sympy.printing.cxx',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\cxx.py',
+   'PYMODULE'),
+  ('sympy.printing.fortran',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\fortran.py',
+   'PYMODULE'),
+  ('sympy.codegen.fnodes',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\codegen\\fnodes.py',
+   'PYMODULE'),
+  ('sympy.printing.c',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\c.py',
+   'PYMODULE'),
+  ('sympy.codegen.cnodes',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\codegen\\cnodes.py',
+   'PYMODULE'),
+  ('sympy.printing.pycode',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\pycode.py',
+   'PYMODULE'),
+  ('sympy.polys.specialpolys',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\specialpolys.py',
+   'PYMODULE'),
+  ('sympy.polys.polyclasses',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\polyclasses.py',
+   'PYMODULE'),
+  ('sympy.polys.rings',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\rings.py',
+   'PYMODULE'),
+  ('sympy.polys.fields',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\fields.py',
+   'PYMODULE'),
+  ('sympy.utilities.magic',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\utilities\\magic.py',
+   'PYMODULE'),
+  ('sympy.polys.heuristicgcd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\heuristicgcd.py',
+   'PYMODULE'),
+  ('sympy.polys.compatibility',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\compatibility.py',
+   'PYMODULE'),
+  ('sympy.ntheory.multinomial',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\ntheory\\multinomial.py',
+   'PYMODULE'),
+  ('sympy.polys.numberfields.primes',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\numberfields\\primes.py',
+   'PYMODULE'),
+  ('sympy.polys.numberfields.modules',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\numberfields\\modules.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.normalforms',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\matrices\\normalforms.py',
+   'PYMODULE'),
+  ('sympy.ntheory.modular',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\ntheory\\modular.py',
+   'PYMODULE'),
+  ('sympy.polys.numberfields.exceptions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\numberfields\\exceptions.py',
+   'PYMODULE'),
+  ('sympy.polys.numberfields.basis',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\numberfields\\basis.py',
+   'PYMODULE'),
+  ('sympy.polys.numberfields.utilities',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\numberfields\\utilities.py',
+   'PYMODULE'),
+  ('sympy.polys.numberfields.subfield',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\numberfields\\subfield.py',
+   'PYMODULE'),
+  ('sympy.polys.numberfields.minpoly',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\numberfields\\minpoly.py',
+   'PYMODULE'),
+  ('sympy.polys.ring_series',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\ring_series.py',
+   'PYMODULE'),
+  ('sympy.polys.puiseux',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\puiseux.py',
+   'PYMODULE'),
+  ('sympy.polys.orthopolys',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\orthopolys.py',
+   'PYMODULE'),
+  ('sympy.matrices.utilities',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\utilities.py',
+   'PYMODULE'),
+  ('sympy.matrices.eigen',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\eigen.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.eigen',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\matrices\\eigen.py',
+   'PYMODULE'),
+  ('sympy.polys.agca.extensions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\agca\\extensions.py',
+   'PYMODULE'),
+  ('sympy.polys.agca',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\agca\\__init__.py',
+   'PYMODULE'),
+  ('sympy.polys.agca.homomorphisms',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\agca\\homomorphisms.py',
+   'PYMODULE'),
+  ('sympy.matrices.repmatrix',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\repmatrix.py',
+   'PYMODULE'),
+  ('sympy.matrices.decompositions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\decompositions.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.expressions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\array\\expressions\\__init__.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.expressions.from_array_to_indexed',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\array\\expressions\\from_array_to_indexed.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.array_derivatives',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\array\\array_derivatives.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.expressions.arrayexpr_derivatives',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\array\\expressions\\arrayexpr_derivatives.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.hadamard',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\hadamard.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.expressions.from_matrix_to_array',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\array\\expressions\\from_matrix_to_array.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.applyfunc',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\applyfunc.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.expressions.from_array_to_matrix',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\array\\expressions\\from_array_to_matrix.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.expressions.from_indexed_to_array',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\array\\expressions\\from_indexed_to_array.py',
+   'PYMODULE'),
+  ('sympy.matrices.immutable',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\immutable.py',
+   'PYMODULE'),
+  ('sympy.matrices.sparse',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\sparse.py',
+   'PYMODULE'),
+  ('mpmath.matrices.matrices',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\matrices\\matrices.py',
+   'PYMODULE'),
+  ('mpmath.matrices',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\matrices\\__init__.py',
+   'PYMODULE'),
+  ('mpmath.matrices.eigen_symmetric',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\matrices\\eigen_symmetric.py',
+   'PYMODULE'),
+  ('mpmath.matrices.eigen',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\matrices\\eigen.py',
+   'PYMODULE'),
+  ('mpmath.libmp.backend',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\libmp\\backend.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.slice',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\slice.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.determinant',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\determinant.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.transpose',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\transpose.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.adjoint',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\adjoint.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\__init__.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.sets',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\sets.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.kronecker',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\kronecker.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.dotproduct',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\dotproduct.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.funcmatrix',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\funcmatrix.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.companion',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\companion.py',
+   'PYMODULE'),
+  ('sympy.matrices.matrixbase',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\matrixbase.py',
+   'PYMODULE'),
+  ('sympy.matrices.sparsetools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\sparsetools.py',
+   'PYMODULE'),
+  ('sympy.physics.matrices',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\matrices.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.fourier',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\fourier.py',
+   'PYMODULE'),
+  ('sympy.discrete.recurrences',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\discrete\\recurrences.py',
+   'PYMODULE'),
+  ('sympy.discrete',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\discrete\\__init__.py',
+   'PYMODULE'),
+  ('sympy.discrete.convolutions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\discrete\\convolutions.py',
+   'PYMODULE'),
+  ('sympy.discrete.transforms',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\discrete\\transforms.py',
+   'PYMODULE'),
+  ('sympy.simplify.trigsimp',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\simplify\\trigsimp.py',
+   'PYMODULE'),
+  ('sympy.simplify.ratsimp',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\simplify\\ratsimp.py',
+   'PYMODULE'),
+  ('sympy.strategies.tree',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\strategies\\tree.py',
+   'PYMODULE'),
+  ('sympy.matrices.graph',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\graph.py',
+   'PYMODULE'),
+  ('sympy.matrices.subspaces',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\subspaces.py',
+   'PYMODULE'),
+  ('sympy.matrices.inverse',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\inverse.py',
+   'PYMODULE'),
+  ('sympy.matrices.reductions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\reductions.py',
+   'PYMODULE'),
+  ('sympy.matrices.kind',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\kind.py',
+   'PYMODULE'),
+  ('sympy.matrices.exceptions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\exceptions.py',
+   'PYMODULE'),
+  ('sympy.assumptions.cnf',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\cnf.py',
+   'PYMODULE'),
+  ('sympy.assumptions.facts',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\facts.py',
+   'PYMODULE'),
+  ('sympy.assumptions.assume',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\assume.py',
+   'PYMODULE'),
+  ('sympy.utilities.source',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\utilities\\source.py',
+   'PYMODULE'),
+  ('sympy.multipledispatch.dispatcher',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\multipledispatch\\dispatcher.py',
+   'PYMODULE'),
+  ('sympy.multipledispatch.utils',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\multipledispatch\\utils.py',
+   'PYMODULE'),
+  ('sympy.multipledispatch.conflict',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\multipledispatch\\conflict.py',
+   'PYMODULE'),
+  ('sympy.printing.smtlib',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\smtlib.py',
+   'PYMODULE'),
+  ('sympy.logic.algorithms.minisat22_wrapper',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\logic\\algorithms\\minisat22_wrapper.py',
+   'PYMODULE'),
+  ('sympy.logic.algorithms.pycosat_wrapper',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\logic\\algorithms\\pycosat_wrapper.py',
+   'PYMODULE'),
+  ('sympy.logic.algorithms.dpll2',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\logic\\algorithms\\dpll2.py',
+   'PYMODULE'),
+  ('sympy.logic.algorithms.lra_theory',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\logic\\algorithms\\lra_theory.py',
+   'PYMODULE'),
+  ('sympy.logic.algorithms.dpll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\logic\\algorithms\\dpll.py',
+   'PYMODULE'),
+  ('sympy.geometry.point',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\geometry\\point.py',
+   'PYMODULE'),
+  ('sympy.geometry.line',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\geometry\\line.py',
+   'PYMODULE'),
+  ('sympy.geometry.plane',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\geometry\\plane.py',
+   'PYMODULE'),
+  ('sympy.geometry.util',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\geometry\\util.py',
+   'PYMODULE'),
+  ('sympy.geometry.exceptions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\geometry\\exceptions.py',
+   'PYMODULE'),
+  ('sympy.geometry.entity',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\geometry\\entity.py',
+   'PYMODULE'),
+  ('sympy.geometry.ellipse',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\geometry\\ellipse.py',
+   'PYMODULE'),
+  ('sympy.plotting.plot',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\plot.py',
+   'PYMODULE'),
+  ('sympy.plotting',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\__init__.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.util',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\util.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_window',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_window.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_controller',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_controller.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_camera',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_camera.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_rotation',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_rotation.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.managed_window',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\managed_window.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_object',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_object.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_mode',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_mode.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_interval',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_interval.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_axes',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_axes.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_modes',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_modes.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_surface',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_surface.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_mode_base',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_mode_base.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.color_scheme',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\color_scheme.py',
+   'PYMODULE'),
+  ('sympy.plotting.pygletplot.plot_curve',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\pygletplot\\plot_curve.py',
+   'PYMODULE'),
+  ('sympy.plotting.plot_implicit',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\plot_implicit.py',
+   'PYMODULE'),
+  ('sympy.plotting.textplot',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\textplot.py',
+   'PYMODULE'),
+  ('sympy.plotting.plotgrid',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\plotgrid.py',
+   'PYMODULE'),
+  ('sympy.plotting.utils',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\utils.py',
+   'PYMODULE'),
+  ('sympy.plotting.backends.textbackend',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\backends\\textbackend\\__init__.py',
+   'PYMODULE'),
+  ('sympy.plotting.backends.textbackend.text',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\backends\\textbackend\\text.py',
+   'PYMODULE'),
+  ('sympy.plotting.backends',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\backends\\__init__.py',
+   'PYMODULE'),
+  ('sympy.plotting.backends.matplotlibbackend',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\backends\\matplotlibbackend\\__init__.py',
+   'PYMODULE'),
+  ('sympy.plotting.backends.matplotlibbackend.matplotlib',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\backends\\matplotlibbackend\\matplotlib.py',
+   'PYMODULE'),
+  ('sympy.plotting.backends.base_backend',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\backends\\base_backend.py',
+   'PYMODULE'),
+  ('sympy.plotting.series',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\series.py',
+   'PYMODULE'),
+  ('sympy.plotting.intervalmath.lib_interval',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\intervalmath\\lib_interval.py',
+   'PYMODULE'),
+  ('sympy.plotting.intervalmath',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\intervalmath\\__init__.py',
+   'PYMODULE'),
+  ('sympy.plotting.intervalmath.interval_arithmetic',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\intervalmath\\interval_arithmetic.py',
+   'PYMODULE'),
+  ('sympy.plotting.intervalmath.interval_membership',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\plotting\\intervalmath\\interval_membership.py',
+   'PYMODULE'),
+  ('sympy.concrete',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\concrete\\__init__.py',
+   'PYMODULE'),
+  ('sympy.calculus.util',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\calculus\\util.py',
+   'PYMODULE'),
+  ('sympy.solvers.decompogen',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\decompogen.py',
+   'PYMODULE'),
+  ('sympy.solvers.inequalities',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\inequalities.py',
+   'PYMODULE'),
+  ('sympy.sets.conditionset',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\sets\\conditionset.py',
+   'PYMODULE'),
+  ('sympy.integrals.laplace',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\integrals\\laplace.py',
+   'PYMODULE'),
+  ('sympy.polys.matrices.linsolve',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\matrices\\linsolve.py',
+   'PYMODULE'),
+  ('sympy.polys.solvers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\solvers.py',
+   'PYMODULE'),
+  ('sympy.polys.domainmatrix',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domainmatrix.py',
+   'PYMODULE'),
+  ('sympy.polys.partfrac',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\partfrac.py',
+   'PYMODULE'),
+  ('sympy.physics',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\__init__.py',
+   'PYMODULE'),
+  ('sympy.physics.units',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\units\\__init__.py',
+   'PYMODULE'),
+  ('sympy.physics.units.systems.si',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\units\\systems\\si.py',
+   'PYMODULE'),
+  ('sympy.physics.units.systems.mksa',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\units\\systems\\mksa.py',
+   'PYMODULE'),
+  ('sympy.physics.units.systems.mks',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\units\\systems\\mks.py',
+   'PYMODULE'),
+  ('sympy.physics.units.systems.length_weight_time',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\units\\systems\\length_weight_time.py',
+   'PYMODULE'),
+  ('sympy.physics.units.systems',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\units\\systems\\__init__.py',
+   'PYMODULE'),
+  ('sympy.physics.units.systems.natural',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\units\\systems\\natural.py',
+   'PYMODULE'),
+  ('sympy.physics.units.definitions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\units\\definitions\\__init__.py',
+   'PYMODULE'),
+  ('sympy.physics.units.definitions.unit_definitions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\units\\definitions\\unit_definitions.py',
+   'PYMODULE'),
+  ('sympy.physics.units.prefixes',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\units\\prefixes.py',
+   'PYMODULE'),
+  ('sympy.physics.units.definitions.dimension_definitions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\units\\definitions\\dimension_definitions.py',
+   'PYMODULE'),
+  ('sympy.physics.units.quantities',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\units\\quantities.py',
+   'PYMODULE'),
+  ('sympy.physics.units.util',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\units\\util.py',
+   'PYMODULE'),
+  ('sympy.physics.units.unitsystem',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\units\\unitsystem.py',
+   'PYMODULE'),
+  ('sympy.physics.units.dimensions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\units\\dimensions.py',
+   'PYMODULE'),
+  ('sympy.physics.control.lti',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\physics\\control\\lti.py',
+   'PYMODULE'),
+  ('sympy.solvers.ode.systems',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\ode\\systems.py',
+   'PYMODULE'),
+  ('sympy.solvers.ode',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\ode\\__init__.py',
+   'PYMODULE'),
+  ('sympy.solvers.ode.subscheck',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\ode\\subscheck.py',
+   'PYMODULE'),
+  ('sympy.solvers.ode.lie_group',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\ode\\lie_group.py',
+   'PYMODULE'),
+  ('sympy.solvers.pde',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\pde.py',
+   'PYMODULE'),
+  ('sympy.solvers.ode.ode',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\ode\\ode.py',
+   'PYMODULE'),
+  ('sympy.solvers.ode.single',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\ode\\single.py',
+   'PYMODULE'),
+  ('sympy.solvers.ode.nonhomogeneous',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\ode\\nonhomogeneous.py',
+   'PYMODULE'),
+  ('sympy.solvers.ode.hypergeometric',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\ode\\hypergeometric.py',
+   'PYMODULE'),
+  ('sympy.solvers.ode.riccati',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\ode\\riccati.py',
+   'PYMODULE'),
+  ('sympy.core.multidimensional',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\multidimensional.py',
+   'PYMODULE'),
+  ('sympy.solvers.deutils',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\deutils.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.blockmatrix',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\blockmatrix.py',
+   'PYMODULE'),
+  ('sympy.vector',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\vector\\__init__.py',
+   'PYMODULE'),
+  ('sympy.vector.kind',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\vector\\kind.py',
+   'PYMODULE'),
+  ('sympy.vector.integrals',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\vector\\integrals.py',
+   'PYMODULE'),
+  ('sympy.vector.parametricregion',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\vector\\parametricregion.py',
+   'PYMODULE'),
+  ('sympy.vector.implicitregion',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\vector\\implicitregion.py',
+   'PYMODULE'),
+  ('sympy.solvers.diophantine',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\diophantine\\__init__.py',
+   'PYMODULE'),
+  ('sympy.solvers.diophantine.diophantine',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\diophantine\\diophantine.py',
+   'PYMODULE'),
+  ('sympy.ntheory.continued_fraction',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\ntheory\\continued_fraction.py',
+   'PYMODULE'),
+  ('sympy.ntheory.residue_ntheory',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\ntheory\\residue_ntheory.py',
+   'PYMODULE'),
+  ('sympy.utilities.memoization',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\utilities\\memoization.py',
+   'PYMODULE'),
+  ('sympy.ntheory.generate',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\ntheory\\generate.py',
+   'PYMODULE'),
+  ('sympy.vector.operators',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\vector\\operators.py',
+   'PYMODULE'),
+  ('sympy.vector.orienters',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\vector\\orienters.py',
+   'PYMODULE'),
+  ('sympy.vector.point',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\vector\\point.py',
+   'PYMODULE'),
+  ('sympy.vector.functions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\vector\\functions.py',
+   'PYMODULE'),
+  ('sympy.vector.deloperator',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\vector\\deloperator.py',
+   'PYMODULE'),
+  ('sympy.vector.scalar',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\vector\\scalar.py',
+   'PYMODULE'),
+  ('sympy.printing.pretty.stringpict',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\pretty\\stringpict.py',
+   'PYMODULE'),
+  ('sympy.printing.pretty',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\pretty\\__init__.py',
+   'PYMODULE'),
+  ('sympy.printing.pretty.pretty',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\pretty\\pretty.py',
+   'PYMODULE'),
+  ('sympy.printing.pretty.pretty_symbology',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\pretty\\pretty_symbology.py',
+   'PYMODULE'),
+  ('sympy.vector.dyadic',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\vector\\dyadic.py',
+   'PYMODULE'),
+  ('sympy.vector.vector',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\vector\\vector.py',
+   'PYMODULE'),
+  ('sympy.vector.coordsysrect',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\vector\\coordsysrect.py',
+   'PYMODULE'),
+  ('sympy.concrete.products',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\concrete\\products.py',
+   'PYMODULE'),
+  ('sympy.concrete.delta',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\concrete\\delta.py',
+   'PYMODULE'),
+  ('sympy.concrete.expr_with_intlimits',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\concrete\\expr_with_intlimits.py',
+   'PYMODULE'),
+  ('sympy.vector.basisdependent',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\vector\\basisdependent.py',
+   'PYMODULE'),
+  ('sympy.tensor.array',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\array\\__init__.py',
+   'PYMODULE'),
+  ('sympy.tensor.array.array_comprehension',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\array\\array_comprehension.py',
+   'PYMODULE'),
+  ('sympy.printing.conventions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\conventions.py',
+   'PYMODULE'),
+  ('sympy.core.alphabets',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\alphabets.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.coset_table',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\coset_table.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.free_groups',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\free_groups.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.fp_groups',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\fp_groups.py',
+   'PYMODULE'),
+  ('sympy.matrices.normalforms',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\normalforms.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.rewritingsystem',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\rewritingsystem.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.rewritingsystem_fsm',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\rewritingsystem_fsm.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.homomorphisms',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\homomorphisms.py',
+   'PYMODULE'),
+  ('sympy.ntheory.primetest',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\ntheory\\primetest.py',
+   'PYMODULE'),
+  ('sympy.external.ntheory',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\external\\ntheory.py',
+   'PYMODULE'),
+  ('sympy.ntheory.factor_',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\ntheory\\factor_.py',
+   'PYMODULE'),
+  ('sympy.ntheory.ecm',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\ntheory\\ecm.py',
+   'PYMODULE'),
+  ('sympy.ntheory.digits',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\ntheory\\digits.py',
+   'PYMODULE'),
+  ('sympy.ntheory',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\ntheory\\__init__.py',
+   'PYMODULE'),
+  ('sympy.ntheory.qs',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\ntheory\\qs.py',
+   'PYMODULE'),
+  ('sympy.ntheory.egyptian_fraction',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\ntheory\\egyptian_fraction.py',
+   'PYMODULE'),
+  ('sympy.ntheory.partitions_',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\ntheory\\partitions_.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.util',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\util.py',
+   'PYMODULE'),
+  ('mpmath.libmp.libintmath',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\libmp\\libintmath.py',
+   'PYMODULE'),
+  ('sympy.printing.repr',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\repr.py',
+   'PYMODULE'),
+  ('sympy.combinatorics',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\__init__.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.graycode',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\graycode.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.polyhedron',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\polyhedron.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.partitions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\partitions.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.subsets',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\subsets.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.prufer',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\prufer.py',
+   'PYMODULE'),
+  ('sympy.polys.polytools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\polytools.py',
+   'PYMODULE'),
+  ('sympy.polys.dispersion',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\dispersion.py',
+   'PYMODULE'),
+  ('mpmath.libmp.libhyper',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\libmp\\libhyper.py',
+   'PYMODULE'),
+  ('mpmath.libmp.gammazeta',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\libmp\\gammazeta.py',
+   'PYMODULE'),
+  ('mpmath.libmp.libmpc',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\libmp\\libmpc.py',
+   'PYMODULE'),
+  ('mpmath.libmp.libelefun',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\libmp\\libelefun.py',
+   'PYMODULE'),
+  ('sympy.polys.groebnertools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\groebnertools.py',
+   'PYMODULE'),
+  ('sympy.polys.fglmtools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\fglmtools.py',
+   'PYMODULE'),
+  ('sympy.printing',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\__init__.py',
+   'PYMODULE'),
+  ('sympy.printing.maple',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\maple.py',
+   'PYMODULE'),
+  ('sympy.printing.dot',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\dot.py',
+   'PYMODULE'),
+  ('sympy.printing.tableform',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\tableform.py',
+   'PYMODULE'),
+  ('sympy.printing.tree',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\tree.py',
+   'PYMODULE'),
+  ('sympy.printing.gtk',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\gtk.py',
+   'PYMODULE'),
+  ('sympy.utilities.mathml',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\utilities\\mathml\\__init__.py',
+   'PYMODULE'),
+  ('sympy.printing.octave',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\octave.py',
+   'PYMODULE'),
+  ('sympy.printing.mathematica',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\mathematica.py',
+   'PYMODULE'),
+  ('sympy.printing.julia',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\julia.py',
+   'PYMODULE'),
+  ('sympy.printing.jscode',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\jscode.py',
+   'PYMODULE'),
+  ('sympy.printing.rcode',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\rcode.py',
+   'PYMODULE'),
+  ('sympy.printing.glsl',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\glsl.py',
+   'PYMODULE'),
+  ('sympy.printing.python',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\python.py',
+   'PYMODULE'),
+  ('sympy.printing.mathml',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\mathml.py',
+   'PYMODULE'),
+  ('xml.dom.minidom', 'C:\\Python310\\lib\\xml\\dom\\minidom.py', 'PYMODULE'),
+  ('xml.dom.pulldom', 'C:\\Python310\\lib\\xml\\dom\\pulldom.py', 'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Python310\\lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Python310\\lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Python310\\lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Python310\\lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.domreg', 'C:\\Python310\\lib\\xml\\dom\\domreg.py', 'PYMODULE'),
+  ('xml.dom', 'C:\\Python310\\lib\\xml\\dom\\__init__.py', 'PYMODULE'),
+  ('mpmath.libmp',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\libmp\\__init__.py',
+   'PYMODULE'),
+  ('mpmath.libmp.libmpi',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\libmp\\libmpi.py',
+   'PYMODULE'),
+  ('sympy.printing.printer',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\printer.py',
+   'PYMODULE'),
+  ('sympy.printing.precedence',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\printing\\precedence.py',
+   'PYMODULE'),
+  ('sympy.polys.agca.modules',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\agca\\modules.py',
+   'PYMODULE'),
+  ('sympy.polys.distributedmodules',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\distributedmodules.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.old_polynomialring',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\old_polynomialring.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.old_fractionfield',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\old_fractionfield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.compositedomain',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\compositedomain.py',
+   'PYMODULE'),
+  ('sympy.polys.agca.ideals',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\agca\\ideals.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.characteristiczero',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\characteristiczero.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.expressiondomain',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\expressiondomain.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.fractionfield',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\fractionfield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.polynomialring',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\polynomialring.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.complexfield',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\complexfield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.realfield',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\realfield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.gaussiandomains',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\gaussiandomains.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.algebraicfield',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\algebraicfield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.rationalfield',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\rationalfield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.integerring',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\integerring.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.finitefield',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\finitefield.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.domain',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\domain.py',
+   'PYMODULE'),
+  ('sympy.utilities',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\utilities\\__init__.py',
+   'PYMODULE'),
+  ('sympy.polys.domains.domainelement',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\domains\\domainelement.py',
+   'PYMODULE'),
+  ('sympy.polys.polyoptions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\polyoptions.py',
+   'PYMODULE'),
+  ('sympy.external.gmpy',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\external\\gmpy.py',
+   'PYMODULE'),
+  ('sympy.solvers.solveset',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\solveset.py',
+   'PYMODULE'),
+  ('sympy.solvers.polysys',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\polysys.py',
+   'PYMODULE'),
+  ('sympy.sets.handlers.power',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\sets\\handlers\\power.py',
+   'PYMODULE'),
+  ('sympy.sets.handlers.mul',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\sets\\handlers\\mul.py',
+   'PYMODULE'),
+  ('sympy.sets.handlers.add',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\sets\\handlers\\add.py',
+   'PYMODULE'),
+  ('sympy.sets.handlers.intersection',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\sets\\handlers\\intersection.py',
+   'PYMODULE'),
+  ('sympy.sets.handlers.union',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\sets\\handlers\\union.py',
+   'PYMODULE'),
+  ('sympy.sets.setexpr',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\sets\\setexpr.py',
+   'PYMODULE'),
+  ('sympy.sets.fancysets',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\sets\\fancysets.py',
+   'PYMODULE'),
+  ('sympy.sets.powerset',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\sets\\powerset.py',
+   'PYMODULE'),
+  ('sympy.sets.handlers.issubset',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\sets\\handlers\\issubset.py',
+   'PYMODULE'),
+  ('sympy.sets.contains',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\sets\\contains.py',
+   'PYMODULE'),
+  ('sympy.sets',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\sets\\__init__.py',
+   'PYMODULE'),
+  ('sympy.sets.handlers.comparison',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\sets\\handlers\\comparison.py',
+   'PYMODULE'),
+  ('sympy.sets.ordinals',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\sets\\ordinals.py',
+   'PYMODULE'),
+  ('mpmath.libmp.libmpf',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\libmp\\libmpf.py',
+   'PYMODULE'),
+  ('sympy.utilities.decorator',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\utilities\\decorator.py',
+   'PYMODULE'),
+  ('sympy.testing.runtests',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\testing\\runtests.py',
+   'PYMODULE'),
+  ('sympy.testing',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('sympy.testing.runtests_pytest',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\testing\\runtests_pytest.py',
+   'PYMODULE'),
+  ('sympy.interactive.printing',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\interactive\\printing.py',
+   'PYMODULE'),
+  ('sympy.interactive',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\interactive\\__init__.py',
+   'PYMODULE'),
+  ('sympy.interactive.traversal',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\interactive\\traversal.py',
+   'PYMODULE'),
+  ('sympy.interactive.session',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\interactive\\session.py',
+   'PYMODULE'),
+  ('rlcompleter', 'C:\\Python310\\lib\\rlcompleter.py', 'PYMODULE'),
+  ('timeit', 'C:\\Python310\\lib\\timeit.py', 'PYMODULE'),
+  ('sympy.core.evalf',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\evalf.py',
+   'PYMODULE'),
+  ('sympy.core.decorators',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\decorators.py',
+   'PYMODULE'),
+  ('sympy.core.kind',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\kind.py',
+   'PYMODULE'),
+  ('sympy.calculus',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\calculus\\__init__.py',
+   'PYMODULE'),
+  ('sympy.calculus.finite_diff',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\calculus\\finite_diff.py',
+   'PYMODULE'),
+  ('sympy.calculus.euler',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\calculus\\euler.py',
+   'PYMODULE'),
+  ('sympy.multipledispatch',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\multipledispatch\\__init__.py',
+   'PYMODULE'),
+  ('sympy.multipledispatch.core',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\multipledispatch\\core.py',
+   'PYMODULE'),
+  ('sympy.series.fourier',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\series\\fourier.py',
+   'PYMODULE'),
+  ('sympy.series.series_class',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\series\\series_class.py',
+   'PYMODULE'),
+  ('sympy.series.sequences',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\series\\sequences.py',
+   'PYMODULE'),
+  ('sympy.series.residues',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\series\\residues.py',
+   'PYMODULE'),
+  ('sympy.series.approximants',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\series\\approximants.py',
+   'PYMODULE'),
+  ('sympy.series.series',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\series\\series.py',
+   'PYMODULE'),
+  ('sympy.series.gruntz',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\series\\gruntz.py',
+   'PYMODULE'),
+  ('sympy.integrals.transforms',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\integrals\\transforms.py',
+   'PYMODULE'),
+  ('sympy.simplify.gammasimp',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\simplify\\gammasimp.py',
+   'PYMODULE'),
+  ('sympy.simplify.powsimp',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\simplify\\powsimp.py',
+   'PYMODULE'),
+  ('sympy.simplify',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\simplify\\__init__.py',
+   'PYMODULE'),
+  ('sympy.simplify.combsimp',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\simplify\\combsimp.py',
+   'PYMODULE'),
+  ('sympy.simplify.epathtools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\simplify\\epathtools.py',
+   'PYMODULE'),
+  ('sympy.utilities.timeutils',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\utilities\\timeutils.py',
+   'PYMODULE'),
+  ('sympy.core.intfunc',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\intfunc.py',
+   'PYMODULE'),
+  ('sympy.core.cache',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\cache.py',
+   'PYMODULE'),
+  ('sympy.integrals.deltafunctions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\integrals\\deltafunctions.py',
+   'PYMODULE'),
+  ('sympy.geometry',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\geometry\\__init__.py',
+   'PYMODULE'),
+  ('sympy.geometry.parabola',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\geometry\\parabola.py',
+   'PYMODULE'),
+  ('sympy.geometry.curve',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\geometry\\curve.py',
+   'PYMODULE'),
+  ('sympy.calculus.singularities',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\calculus\\singularities.py',
+   'PYMODULE'),
+  ('sympy.integrals.heurisch',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\integrals\\heurisch.py',
+   'PYMODULE'),
+  ('sympy.integrals.singularityfunctions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\integrals\\singularityfunctions.py',
+   'PYMODULE'),
+  ('sympy.simplify.fu',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\simplify\\fu.py',
+   'PYMODULE'),
+  ('sympy.integrals.manualintegrate',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\integrals\\manualintegrate.py',
+   'PYMODULE'),
+  ('sympy.integrals.risch',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\integrals\\risch.py',
+   'PYMODULE'),
+  ('sympy.integrals.rde',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\integrals\\rde.py',
+   'PYMODULE'),
+  ('sympy.integrals.prde',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\integrals\\prde.py',
+   'PYMODULE'),
+  ('sympy.polys.polymatrix',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\polymatrix.py',
+   'PYMODULE'),
+  ('sympy.concrete.summations',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\concrete\\summations.py',
+   'PYMODULE'),
+  ('sympy.concrete.gosper',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\concrete\\gosper.py',
+   'PYMODULE'),
+  ('sympy.simplify.simplify',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\simplify\\simplify.py',
+   'PYMODULE'),
+  ('sympy.solvers.solvers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\solvers.py',
+   'PYMODULE'),
+  ('sympy.solvers.bivariate',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\bivariate.py',
+   'PYMODULE'),
+  ('sympy.utilities.exceptions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\utilities\\exceptions.py',
+   'PYMODULE'),
+  ('sympy.tensor.functions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\functions.py',
+   'PYMODULE'),
+  ('sympy.series.order',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\series\\order.py',
+   'PYMODULE'),
+  ('sympy.series.limits',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\series\\limits.py',
+   'PYMODULE'),
+  ('sympy.series.formal',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\series\\formal.py',
+   'PYMODULE'),
+  ('sympy.polys',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\__init__.py',
+   'PYMODULE'),
+  ('sympy.polys.appellseqs',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\appellseqs.py',
+   'PYMODULE'),
+  ('sympy.matrices',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\__init__.py',
+   'PYMODULE'),
+  ('sympy.integrals.rationaltools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\integrals\\rationaltools.py',
+   'PYMODULE'),
+  ('sympy.concrete.expr_with_limits',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\concrete\\expr_with_limits.py',
+   'PYMODULE'),
+  ('sympy.integrals',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\integrals\\__init__.py',
+   'PYMODULE'),
+  ('mpmath',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\__init__.py',
+   'PYMODULE'),
+  ('mpmath.tests.runtests',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\tests\\runtests.py',
+   'PYMODULE'),
+  ('trace', 'C:\\Python310\\lib\\trace.py', 'PYMODULE'),
+  ('cProfile', 'C:\\Python310\\lib\\cProfile.py', 'PYMODULE'),
+  ('pstats', 'C:\\Python310\\lib\\pstats.py', 'PYMODULE'),
+  ('profile', 'C:\\Python310\\lib\\profile.py', 'PYMODULE'),
+  ('mpmath.tests',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\tests\\__init__.py',
+   'PYMODULE'),
+  ('mpmath.ctx_iv',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\ctx_iv.py',
+   'PYMODULE'),
+  ('mpmath.ctx_base',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\ctx_base.py',
+   'PYMODULE'),
+  ('mpmath.visualization',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\visualization.py',
+   'PYMODULE'),
+  ('colorsys', 'C:\\Python310\\lib\\colorsys.py', 'PYMODULE'),
+  ('mpmath.identification',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\identification.py',
+   'PYMODULE'),
+  ('mpmath.matrices.linalg',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\matrices\\linalg.py',
+   'PYMODULE'),
+  ('mpmath.matrices.calculus',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\matrices\\calculus.py',
+   'PYMODULE'),
+  ('mpmath.calculus.odes',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\calculus\\odes.py',
+   'PYMODULE'),
+  ('mpmath.calculus',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\calculus\\__init__.py',
+   'PYMODULE'),
+  ('mpmath.calculus.polynomials',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\calculus\\polynomials.py',
+   'PYMODULE'),
+  ('mpmath.calculus.extrapolation',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\calculus\\extrapolation.py',
+   'PYMODULE'),
+  ('mpmath.calculus.differentiation',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\calculus\\differentiation.py',
+   'PYMODULE'),
+  ('mpmath.calculus.approximation',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\calculus\\approximation.py',
+   'PYMODULE'),
+  ('mpmath.calculus.optimization',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\calculus\\optimization.py',
+   'PYMODULE'),
+  ('mpmath.calculus.calculus',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\calculus\\calculus.py',
+   'PYMODULE'),
+  ('mpmath.calculus.inverselaplace',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\calculus\\inverselaplace.py',
+   'PYMODULE'),
+  ('mpmath.calculus.quadrature',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\calculus\\quadrature.py',
+   'PYMODULE'),
+  ('mpmath.functions.rszeta',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\functions\\rszeta.py',
+   'PYMODULE'),
+  ('mpmath.functions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\functions\\__init__.py',
+   'PYMODULE'),
+  ('mpmath.functions.qfunctions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\functions\\qfunctions.py',
+   'PYMODULE'),
+  ('mpmath.functions.zetazeros',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\functions\\zetazeros.py',
+   'PYMODULE'),
+  ('mpmath.functions.zeta',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\functions\\zeta.py',
+   'PYMODULE'),
+  ('mpmath.functions.signals',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\functions\\signals.py',
+   'PYMODULE'),
+  ('mpmath.functions.elliptic',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\functions\\elliptic.py',
+   'PYMODULE'),
+  ('mpmath.functions.theta',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\functions\\theta.py',
+   'PYMODULE'),
+  ('mpmath.functions.orthogonal',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\functions\\orthogonal.py',
+   'PYMODULE'),
+  ('mpmath.functions.bessel',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\functions\\bessel.py',
+   'PYMODULE'),
+  ('mpmath.functions.expintegrals',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\functions\\expintegrals.py',
+   'PYMODULE'),
+  ('mpmath.functions.hypergeometric',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\functions\\hypergeometric.py',
+   'PYMODULE'),
+  ('mpmath.functions.factorials',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\functions\\factorials.py',
+   'PYMODULE'),
+  ('mpmath.functions.functions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\functions\\functions.py',
+   'PYMODULE'),
+  ('mpmath.ctx_mp',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\ctx_mp.py',
+   'PYMODULE'),
+  ('mpmath.ctx_mp_python',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\ctx_mp_python.py',
+   'PYMODULE'),
+  ('mpmath.rational',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\rational.py',
+   'PYMODULE'),
+  ('mpmath.ctx_fp',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\ctx_fp.py',
+   'PYMODULE'),
+  ('mpmath.function_docs',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\function_docs.py',
+   'PYMODULE'),
+  ('mpmath.math2',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\math2.py',
+   'PYMODULE'),
+  ('mpmath.usertools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\mpmath\\usertools.py',
+   'PYMODULE'),
+  ('sympy.functions.special.elliptic_integrals',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\special\\elliptic_integrals.py',
+   'PYMODULE'),
+  ('sympy.functions.special.spherical_harmonics',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\special\\spherical_harmonics.py',
+   'PYMODULE'),
+  ('sympy.functions.special.polynomials',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\special\\polynomials.py',
+   'PYMODULE'),
+  ('sympy.functions.special.hyper',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\special\\hyper.py',
+   'PYMODULE'),
+  ('sympy.functions.special.bessel',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\special\\bessel.py',
+   'PYMODULE'),
+  ('sympy.functions.special.bsplines',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\special\\bsplines.py',
+   'PYMODULE'),
+  ('sympy.functions.special.tensor_functions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\special\\tensor_functions.py',
+   'PYMODULE'),
+  ('sympy.functions.special.zeta_functions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\special\\zeta_functions.py',
+   'PYMODULE'),
+  ('sympy.functions.special.gamma_functions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\special\\gamma_functions.py',
+   'PYMODULE'),
+  ('sympy.functions.special.error_functions',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\special\\error_functions.py',
+   'PYMODULE'),
+  ('sympy.functions.elementary.integers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\elementary\\integers.py',
+   'PYMODULE'),
+  ('sympy.functions.elementary.hyperbolic',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\elementary\\hyperbolic.py',
+   'PYMODULE'),
+  ('sympy.functions.elementary.exponential',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\elementary\\exponential.py',
+   'PYMODULE'),
+  ('sympy.functions.elementary.trigonometric',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\elementary\\trigonometric.py',
+   'PYMODULE'),
+  ('sympy.functions.elementary._trigonometric_special',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\elementary\\_trigonometric_special.py',
+   'PYMODULE'),
+  ('sympy.functions.combinatorial.numbers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\combinatorial\\numbers.py',
+   'PYMODULE'),
+  ('sympy.utilities.enumerative',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\utilities\\enumerative.py',
+   'PYMODULE'),
+  ('sympy.functions.combinatorial',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\combinatorial\\__init__.py',
+   'PYMODULE'),
+  ('sympy.functions.combinatorial.factorials',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\combinatorial\\factorials.py',
+   'PYMODULE'),
+  ('sympy.solvers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\__init__.py',
+   'PYMODULE'),
+  ('sympy.solvers.simplex',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\simplex.py',
+   'PYMODULE'),
+  ('sympy.solvers.recurr',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\solvers\\recurr.py',
+   'PYMODULE'),
+  ('sympy.polys.polyroots',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\polyroots.py',
+   'PYMODULE'),
+  ('sympy.polys.polyquinticconst',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\polyquinticconst.py',
+   'PYMODULE'),
+  ('sympy.polys.polyerrors',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\polys\\polyerrors.py',
+   'PYMODULE'),
+  ('sympy.core.parameters',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\parameters.py',
+   'PYMODULE'),
+  ('sympy.functions.elementary.complexes',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\elementary\\complexes.py',
+   'PYMODULE'),
+  ('sympy.functions.elementary.piecewise',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\elementary\\piecewise.py',
+   'PYMODULE'),
+  ('sympy.logic.boolalg',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\logic\\boolalg.py',
+   'PYMODULE'),
+  ('sympy.core.traversal',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\traversal.py',
+   'PYMODULE'),
+  ('sympy.core.logic',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\logic.py',
+   'PYMODULE'),
+  ('sympy.core.rules',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\rules.py',
+   'PYMODULE'),
+  ('sympy.core.symbol',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\symbol.py',
+   'PYMODULE'),
+  ('sympy.core.sorting',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\sorting.py',
+   'PYMODULE'),
+  ('sympy.core.singleton',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\singleton.py',
+   'PYMODULE'),
+  ('sympy.core.core',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\core.py',
+   'PYMODULE'),
+  ('sympy.core.relational',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\relational.py',
+   'PYMODULE'),
+  ('sympy.assumptions.wrapper',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\wrapper.py',
+   'PYMODULE'),
+  ('sympy.core.coreerrors',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\coreerrors.py',
+   'PYMODULE'),
+  ('sympy.core.power',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\power.py',
+   'PYMODULE'),
+  ('sympy.core.numbers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\numbers.py',
+   'PYMODULE'),
+  ('sympy.core.mul',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\mul.py',
+   'PYMODULE'),
+  ('sympy.core.mod',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\mod.py',
+   'PYMODULE'),
+  ('sympy.functions.elementary',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\functions\\elementary\\__init__.py',
+   'PYMODULE'),
+  ('sympy.core.exprtools',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\exprtools.py',
+   'PYMODULE'),
+  ('sympy.core.expr',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\expr.py',
+   'PYMODULE'),
+  ('sympy.core.operations',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\operations.py',
+   'PYMODULE'),
+  ('sympy.core.containers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\containers.py',
+   'PYMODULE'),
+  ('sympy.core.add',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\add.py',
+   'PYMODULE'),
+  ('sympy.tensor.tensor',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\tensor\\tensor.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.tensor_can',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\tensor_can.py',
+   'PYMODULE'),
+  ('sympy.combinatorics.testutil',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\combinatorics\\testutil.py',
+   'PYMODULE'),
+  ('sympy.utilities.iterables',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\utilities\\iterables.py',
+   'PYMODULE'),
+  ('sympy.core.sympify',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\sympify.py',
+   'PYMODULE'),
+  ('sympy.utilities.misc',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\utilities\\misc.py',
+   'PYMODULE'),
+  ('sympy.core.function',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\function.py',
+   'PYMODULE'),
+  ('sympy.core',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\__init__.py',
+   'PYMODULE'),
+  ('sympy.core.basic',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\core\\basic.py',
+   'PYMODULE'),
+  ('sympy.assumptions.ask',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\ask.py',
+   'PYMODULE'),
+  ('sympy.assumptions.ask_generated',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\ask_generated.py',
+   'PYMODULE'),
+  ('sympy.assumptions.lra_satask',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\lra_satask.py',
+   'PYMODULE'),
+  ('sympy.assumptions.satask',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\satask.py',
+   'PYMODULE'),
+  ('sympy.assumptions.sathandlers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\sathandlers.py',
+   'PYMODULE'),
+  ('sympy.assumptions.predicates.matrices',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\predicates\\matrices.py',
+   'PYMODULE'),
+  ('sympy.assumptions.predicates',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\predicates\\__init__.py',
+   'PYMODULE'),
+  ('sympy.assumptions.handlers.matrices',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\handlers\\matrices.py',
+   'PYMODULE'),
+  ('sympy.matrices.expressions.factorizations',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\matrices\\expressions\\factorizations.py',
+   'PYMODULE'),
+  ('sympy.assumptions.handlers',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\handlers\\__init__.py',
+   'PYMODULE'),
+  ('sympy.assumptions.handlers.common',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\handlers\\common.py',
+   'PYMODULE'),
+  ('sympy.assumptions.predicates.common',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\predicates\\common.py',
+   'PYMODULE'),
+  ('sympy.assumptions.handlers.ntheory',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\handlers\\ntheory.py',
+   'PYMODULE'),
+  ('sympy.assumptions.predicates.ntheory',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\predicates\\ntheory.py',
+   'PYMODULE'),
+  ('sympy.assumptions.handlers.order',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\handlers\\order.py',
+   'PYMODULE'),
+  ('sympy.assumptions.predicates.order',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\predicates\\order.py',
+   'PYMODULE'),
+  ('sympy.assumptions.handlers.calculus',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\handlers\\calculus.py',
+   'PYMODULE'),
+  ('sympy.assumptions.predicates.calculus',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\predicates\\calculus.py',
+   'PYMODULE'),
+  ('sympy.assumptions.predicates.sets',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\predicates\\sets.py',
+   'PYMODULE'),
+  ('sympy.assumptions.handlers.sets',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\assumptions\\handlers\\sets.py',
+   'PYMODULE'),
+  ('sympy',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\__init__.py',
+   'PYMODULE'),
+  ('sympy.algebras',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\algebras\\__init__.py',
+   'PYMODULE'),
+  ('sympy.algebras.quaternion',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\algebras\\quaternion.py',
+   'PYMODULE'),
+  ('sympy.release',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\sympy\\release.py',
+   'PYMODULE'),
+  ('pygame',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\__init__.py',
+   'PYMODULE'),
+  ('pygame.colordict',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\colordict.py',
+   'PYMODULE'),
+  ('pygame.macosx',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\macosx.py',
+   'PYMODULE'),
+  ('pygame.pkgdata',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\pkgdata.py',
+   'PYMODULE'),
+  ('pygame.fastevent',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\fastevent.py',
+   'PYMODULE'),
+  ('pygame.sndarray',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\sndarray.py',
+   'PYMODULE'),
+  ('pygame.surfarray',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\surfarray.py',
+   'PYMODULE'),
+  ('pygame.sysfont',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\sysfont.py',
+   'PYMODULE'),
+  ('pygame.ftfont',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\ftfont.py',
+   'PYMODULE'),
+  ('pygame.threads',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\threads\\__init__.py',
+   'PYMODULE'),
+  ('pygame.sprite',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\sprite.py',
+   'PYMODULE'),
+  ('pygame.cursors',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\cursors.py',
+   'PYMODULE'),
+  ('pygame.version',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\version.py',
+   'PYMODULE')],
+ [('python310.dll', 'C:\\Python310\\python310.dll', 'BINARY'),
+  ('numpy.libs\\libscipy_openblas64_-13e2df515630b4a41f92893938845698.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy.libs\\libscipy_openblas64_-13e2df515630b4a41f92893938845698.dll',
+   'BINARY'),
+  ('numpy.libs\\msvcp140-263139962577ecda4cd9469ca360a746.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy.libs\\msvcp140-263139962577ecda4cd9469ca360a746.dll',
+   'BINARY'),
+  ('SDL2_mixer.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\SDL2_mixer.dll',
+   'BINARY'),
+  ('libjpeg-9.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\libjpeg-9.dll',
+   'BINARY'),
+  ('libtiff-5.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\libtiff-5.dll',
+   'BINARY'),
+  ('SDL2_image.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\SDL2_image.dll',
+   'BINARY'),
+  ('zlib1.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\zlib1.dll',
+   'BINARY'),
+  ('SDL2_ttf.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\SDL2_ttf.dll',
+   'BINARY'),
+  ('freetype.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\freetype.dll',
+   'BINARY'),
+  ('libopusfile-0.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\libopusfile-0.dll',
+   'BINARY'),
+  ('portmidi.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\portmidi.dll',
+   'BINARY'),
+  ('SDL2.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\SDL2.dll',
+   'BINARY'),
+  ('libwebp-7.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\libwebp-7.dll',
+   'BINARY'),
+  ('libmodplug-1.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\libmodplug-1.dll',
+   'BINARY'),
+  ('libopus-0.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\libopus-0.dll',
+   'BINARY'),
+  ('libogg-0.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\libogg-0.dll',
+   'BINARY'),
+  ('libpng16-16.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\libpng16-16.dll',
+   'BINARY'),
+  ('select.pyd', 'C:\\Python310\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_lzma.pyd', 'C:\\Python310\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2.pyd', 'C:\\Python310\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('unicodedata.pyd', 'C:\\Python310\\DLLs\\unicodedata.pyd', 'EXTENSION'),
+  ('_socket.pyd', 'C:\\Python310\\DLLs\\_socket.pyd', 'EXTENSION'),
+  ('_ctypes.pyd', 'C:\\Python310\\DLLs\\_ctypes.pyd', 'EXTENSION'),
+  ('_ssl.pyd', 'C:\\Python310\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('_queue.pyd', 'C:\\Python310\\DLLs\\_queue.pyd', 'EXTENSION'),
+  ('_hashlib.pyd', 'C:\\Python310\\DLLs\\_hashlib.pyd', 'EXTENSION'),
+  ('pyexpat.pyd', 'C:\\Python310\\DLLs\\pyexpat.pyd', 'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Python310\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd', 'C:\\Python310\\DLLs\\_decimal.pyd', 'EXTENSION'),
+  ('numpy\\_core\\_multiarray_tests.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\_multiarray_tests.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_umath.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\_core\\_multiarray_umath.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd', 'C:\\Python310\\DLLs\\_overlapped.pyd', 'EXTENSION'),
+  ('_asyncio.pyd', 'C:\\Python310\\DLLs\\_asyncio.pyd', 'EXTENSION'),
+  ('numpy\\random\\mtrand.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\random\\mtrand.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\random\\_sfc64.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\random\\_philox.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\random\\_pcg64.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\random\\_mt19937.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\random\\bit_generator.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\random\\_generator.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\random\\_bounded_integers.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\random\\_common.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_umath.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy\\fft\\_pocketfft_umath.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\imageext.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\imageext.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\scrap.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\scrap.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mixer.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\mixer.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mixer_music.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\mixer_music.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\font.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\font.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\_freetype.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\_freetype.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\transform.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\transform.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\time.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\time.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\pixelarray.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\pixelarray.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mask.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\mask.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\surface.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\surface.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\pixelcopy.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\pixelcopy.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\mouse.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\mouse.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\key.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\key.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\joystick.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\joystick.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\image.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\image.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\event.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\event.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\draw.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\draw.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\display.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\display.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\math.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\math.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\bufferproxy.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\bufferproxy.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\color.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\color.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\surflock.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\surflock.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\rwobject.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\rwobject.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\rect.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\rect.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\constants.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\constants.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame\\base.cp310-win_amd64.pyd',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\base.cp310-win_amd64.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll', 'C:\\Python310\\VCRUNTIME140.dll', 'BINARY'),
+  ('VCRUNTIME140_1.dll', 'C:\\Python310\\VCRUNTIME140_1.dll', 'BINARY'),
+  ('pygame\\SDL2.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\SDL2.dll',
+   'BINARY'),
+  ('pygame\\libjpeg-9.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\libjpeg-9.dll',
+   'BINARY'),
+  ('pygame\\zlib1.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\zlib1.dll',
+   'BINARY'),
+  ('pygame\\libogg-0.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\libogg-0.dll',
+   'BINARY'),
+  ('pygame\\libopus-0.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\libopus-0.dll',
+   'BINARY'),
+  ('libffi-7.dll', 'C:\\Python310\\DLLs\\libffi-7.dll', 'BINARY'),
+  ('libssl-1_1.dll', 'C:\\Python310\\DLLs\\libssl-1_1.dll', 'BINARY'),
+  ('libcrypto-1_1.dll', 'C:\\Python310\\DLLs\\libcrypto-1_1.dll', 'BINARY'),
+  ('pygame\\SDL2_image.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\SDL2_image.dll',
+   'BINARY'),
+  ('pygame\\libpng16-16.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\libpng16-16.dll',
+   'BINARY'),
+  ('pygame\\SDL2_mixer.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\SDL2_mixer.dll',
+   'BINARY'),
+  ('pygame\\SDL2_ttf.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\SDL2_ttf.dll',
+   'BINARY'),
+  ('pygame\\freetype.dll',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\freetype.dll',
+   'BINARY')],
+ [],
+ [],
+ [('pygame\\pygame_icon.bmp',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\pygame_icon.bmp',
+   'DATA'),
+  ('pygame\\freesansbold.ttf',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\pygame\\freesansbold.ttf',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\INSTALLER',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy-2.2.6.dist-info\\INSTALLER',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\METADATA',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy-2.2.6.dist-info\\METADATA',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\LICENSE.txt',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy-2.2.6.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\WHEEL',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy-2.2.6.dist-info\\WHEEL',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\REQUESTED',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy-2.2.6.dist-info\\REQUESTED',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\entry_points.txt',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy-2.2.6.dist-info\\entry_points.txt',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\DELVEWHEEL',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy-2.2.6.dist-info\\DELVEWHEEL',
+   'DATA'),
+  ('numpy-2.2.6.dist-info\\RECORD',
+   'D:\\Programing_projects\\AxiomV2 '
+   'project10\\buildenv\\lib\\site-packages\\numpy-2.2.6.dist-info\\RECORD',
+   'DATA'),
+  ('base_library.zip',
+   'D:\\Programing_projects\\AxiomV2 project10\\build\\main\\base_library.zip',
+   'DATA')],
+ [('warnings', 'C:\\Python310\\lib\\warnings.py', 'PYMODULE'),
+  ('enum', 'C:\\Python310\\lib\\enum.py', 'PYMODULE'),
+  ('os', 'C:\\Python310\\lib\\os.py', 'PYMODULE'),
+  ('heapq', 'C:\\Python310\\lib\\heapq.py', 'PYMODULE'),
+  ('stat', 'C:\\Python310\\lib\\stat.py', 'PYMODULE'),
+  ('collections.abc', 'C:\\Python310\\lib\\collections\\abc.py', 'PYMODULE'),
+  ('collections', 'C:\\Python310\\lib\\collections\\__init__.py', 'PYMODULE'),
+  ('traceback', 'C:\\Python310\\lib\\traceback.py', 'PYMODULE'),
+  ('sre_constants', 'C:\\Python310\\lib\\sre_constants.py', 'PYMODULE'),
+  ('posixpath', 'C:\\Python310\\lib\\posixpath.py', 'PYMODULE'),
+  ('weakref', 'C:\\Python310\\lib\\weakref.py', 'PYMODULE'),
+  ('re', 'C:\\Python310\\lib\\re.py', 'PYMODULE'),
+  ('sre_parse', 'C:\\Python310\\lib\\sre_parse.py', 'PYMODULE'),
+  ('linecache', 'C:\\Python310\\lib\\linecache.py', 'PYMODULE'),
+  ('operator', 'C:\\Python310\\lib\\operator.py', 'PYMODULE'),
+  ('genericpath', 'C:\\Python310\\lib\\genericpath.py', 'PYMODULE'),
+  ('io', 'C:\\Python310\\lib\\io.py', 'PYMODULE'),
+  ('copyreg', 'C:\\Python310\\lib\\copyreg.py', 'PYMODULE'),
+  ('encodings.zlib_codec',
+   'C:\\Python310\\lib\\encodings\\zlib_codec.py',
+   'PYMODULE'),
+  ('encodings.uu_codec',
+   'C:\\Python310\\lib\\encodings\\uu_codec.py',
+   'PYMODULE'),
+  ('encodings.utf_8_sig',
+   'C:\\Python310\\lib\\encodings\\utf_8_sig.py',
+   'PYMODULE'),
+  ('encodings.utf_8', 'C:\\Python310\\lib\\encodings\\utf_8.py', 'PYMODULE'),
+  ('encodings.utf_7', 'C:\\Python310\\lib\\encodings\\utf_7.py', 'PYMODULE'),
+  ('encodings.utf_32_le',
+   'C:\\Python310\\lib\\encodings\\utf_32_le.py',
+   'PYMODULE'),
+  ('encodings.utf_32_be',
+   'C:\\Python310\\lib\\encodings\\utf_32_be.py',
+   'PYMODULE'),
+  ('encodings.utf_32', 'C:\\Python310\\lib\\encodings\\utf_32.py', 'PYMODULE'),
+  ('encodings.utf_16_le',
+   'C:\\Python310\\lib\\encodings\\utf_16_le.py',
+   'PYMODULE'),
+  ('encodings.utf_16_be',
+   'C:\\Python310\\lib\\encodings\\utf_16_be.py',
+   'PYMODULE'),
+  ('encodings.utf_16', 'C:\\Python310\\lib\\encodings\\utf_16.py', 'PYMODULE'),
+  ('encodings.unicode_escape',
+   'C:\\Python310\\lib\\encodings\\unicode_escape.py',
+   'PYMODULE'),
+  ('encodings.undefined',
+   'C:\\Python310\\lib\\encodings\\undefined.py',
+   'PYMODULE'),
+  ('encodings.tis_620',
+   'C:\\Python310\\lib\\encodings\\tis_620.py',
+   'PYMODULE'),
+  ('encodings.shift_jisx0213',
+   'C:\\Python310\\lib\\encodings\\shift_jisx0213.py',
+   'PYMODULE'),
+  ('encodings.shift_jis_2004',
+   'C:\\Python310\\lib\\encodings\\shift_jis_2004.py',
+   'PYMODULE'),
+  ('encodings.shift_jis',
+   'C:\\Python310\\lib\\encodings\\shift_jis.py',
+   'PYMODULE'),
+  ('encodings.rot_13', 'C:\\Python310\\lib\\encodings\\rot_13.py', 'PYMODULE'),
+  ('encodings.raw_unicode_escape',
+   'C:\\Python310\\lib\\encodings\\raw_unicode_escape.py',
+   'PYMODULE'),
+  ('encodings.quopri_codec',
+   'C:\\Python310\\lib\\encodings\\quopri_codec.py',
+   'PYMODULE'),
+  ('encodings.punycode',
+   'C:\\Python310\\lib\\encodings\\punycode.py',
+   'PYMODULE'),
+  ('encodings.ptcp154',
+   'C:\\Python310\\lib\\encodings\\ptcp154.py',
+   'PYMODULE'),
+  ('encodings.palmos', 'C:\\Python310\\lib\\encodings\\palmos.py', 'PYMODULE'),
+  ('encodings.oem', 'C:\\Python310\\lib\\encodings\\oem.py', 'PYMODULE'),
+  ('encodings.mbcs', 'C:\\Python310\\lib\\encodings\\mbcs.py', 'PYMODULE'),
+  ('encodings.mac_turkish',
+   'C:\\Python310\\lib\\encodings\\mac_turkish.py',
+   'PYMODULE'),
+  ('encodings.mac_romanian',
+   'C:\\Python310\\lib\\encodings\\mac_romanian.py',
+   'PYMODULE'),
+  ('encodings.mac_roman',
+   'C:\\Python310\\lib\\encodings\\mac_roman.py',
+   'PYMODULE'),
+  ('encodings.mac_latin2',
+   'C:\\Python310\\lib\\encodings\\mac_latin2.py',
+   'PYMODULE'),
+  ('encodings.mac_iceland',
+   'C:\\Python310\\lib\\encodings\\mac_iceland.py',
+   'PYMODULE'),
+  ('encodings.mac_greek',
+   'C:\\Python310\\lib\\encodings\\mac_greek.py',
+   'PYMODULE'),
+  ('encodings.mac_farsi',
+   'C:\\Python310\\lib\\encodings\\mac_farsi.py',
+   'PYMODULE'),
+  ('encodings.mac_cyrillic',
+   'C:\\Python310\\lib\\encodings\\mac_cyrillic.py',
+   'PYMODULE'),
+  ('encodings.mac_croatian',
+   'C:\\Python310\\lib\\encodings\\mac_croatian.py',
+   'PYMODULE'),
+  ('encodings.mac_arabic',
+   'C:\\Python310\\lib\\encodings\\mac_arabic.py',
+   'PYMODULE'),
+  ('encodings.latin_1',
+   'C:\\Python310\\lib\\encodings\\latin_1.py',
+   'PYMODULE'),
+  ('encodings.kz1048', 'C:\\Python310\\lib\\encodings\\kz1048.py', 'PYMODULE'),
+  ('encodings.koi8_u', 'C:\\Python310\\lib\\encodings\\koi8_u.py', 'PYMODULE'),
+  ('encodings.koi8_t', 'C:\\Python310\\lib\\encodings\\koi8_t.py', 'PYMODULE'),
+  ('encodings.koi8_r', 'C:\\Python310\\lib\\encodings\\koi8_r.py', 'PYMODULE'),
+  ('encodings.johab', 'C:\\Python310\\lib\\encodings\\johab.py', 'PYMODULE'),
+  ('encodings.iso8859_9',
+   'C:\\Python310\\lib\\encodings\\iso8859_9.py',
+   'PYMODULE'),
+  ('encodings.iso8859_8',
+   'C:\\Python310\\lib\\encodings\\iso8859_8.py',
+   'PYMODULE'),
+  ('encodings.iso8859_7',
+   'C:\\Python310\\lib\\encodings\\iso8859_7.py',
+   'PYMODULE'),
+  ('encodings.iso8859_6',
+   'C:\\Python310\\lib\\encodings\\iso8859_6.py',
+   'PYMODULE'),
+  ('encodings.iso8859_5',
+   'C:\\Python310\\lib\\encodings\\iso8859_5.py',
+   'PYMODULE'),
+  ('encodings.iso8859_4',
+   'C:\\Python310\\lib\\encodings\\iso8859_4.py',
+   'PYMODULE'),
+  ('encodings.iso8859_3',
+   'C:\\Python310\\lib\\encodings\\iso8859_3.py',
+   'PYMODULE'),
+  ('encodings.iso8859_2',
+   'C:\\Python310\\lib\\encodings\\iso8859_2.py',
+   'PYMODULE'),
+  ('encodings.iso8859_16',
+   'C:\\Python310\\lib\\encodings\\iso8859_16.py',
+   'PYMODULE'),
+  ('encodings.iso8859_15',
+   'C:\\Python310\\lib\\encodings\\iso8859_15.py',
+   'PYMODULE'),
+  ('encodings.iso8859_14',
+   'C:\\Python310\\lib\\encodings\\iso8859_14.py',
+   'PYMODULE'),
+  ('encodings.iso8859_13',
+   'C:\\Python310\\lib\\encodings\\iso8859_13.py',
+   'PYMODULE'),
+  ('encodings.iso8859_11',
+   'C:\\Python310\\lib\\encodings\\iso8859_11.py',
+   'PYMODULE'),
+  ('encodings.iso8859_10',
+   'C:\\Python310\\lib\\encodings\\iso8859_10.py',
+   'PYMODULE'),
+  ('encodings.iso8859_1',
+   'C:\\Python310\\lib\\encodings\\iso8859_1.py',
+   'PYMODULE'),
+  ('encodings.iso2022_kr',
+   'C:\\Python310\\lib\\encodings\\iso2022_kr.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_ext',
+   'C:\\Python310\\lib\\encodings\\iso2022_jp_ext.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_3',
+   'C:\\Python310\\lib\\encodings\\iso2022_jp_3.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_2004',
+   'C:\\Python310\\lib\\encodings\\iso2022_jp_2004.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_2',
+   'C:\\Python310\\lib\\encodings\\iso2022_jp_2.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp_1',
+   'C:\\Python310\\lib\\encodings\\iso2022_jp_1.py',
+   'PYMODULE'),
+  ('encodings.iso2022_jp',
+   'C:\\Python310\\lib\\encodings\\iso2022_jp.py',
+   'PYMODULE'),
+  ('encodings.idna', 'C:\\Python310\\lib\\encodings\\idna.py', 'PYMODULE'),
+  ('encodings.hz', 'C:\\Python310\\lib\\encodings\\hz.py', 'PYMODULE'),
+  ('encodings.hp_roman8',
+   'C:\\Python310\\lib\\encodings\\hp_roman8.py',
+   'PYMODULE'),
+  ('encodings.hex_codec',
+   'C:\\Python310\\lib\\encodings\\hex_codec.py',
+   'PYMODULE'),
+  ('encodings.gbk', 'C:\\Python310\\lib\\encodings\\gbk.py', 'PYMODULE'),
+  ('encodings.gb2312', 'C:\\Python310\\lib\\encodings\\gb2312.py', 'PYMODULE'),
+  ('encodings.gb18030',
+   'C:\\Python310\\lib\\encodings\\gb18030.py',
+   'PYMODULE'),
+  ('encodings.euc_kr', 'C:\\Python310\\lib\\encodings\\euc_kr.py', 'PYMODULE'),
+  ('encodings.euc_jp', 'C:\\Python310\\lib\\encodings\\euc_jp.py', 'PYMODULE'),
+  ('encodings.euc_jisx0213',
+   'C:\\Python310\\lib\\encodings\\euc_jisx0213.py',
+   'PYMODULE'),
+  ('encodings.euc_jis_2004',
+   'C:\\Python310\\lib\\encodings\\euc_jis_2004.py',
+   'PYMODULE'),
+  ('encodings.cp950', 'C:\\Python310\\lib\\encodings\\cp950.py', 'PYMODULE'),
+  ('encodings.cp949', 'C:\\Python310\\lib\\encodings\\cp949.py', 'PYMODULE'),
+  ('encodings.cp932', 'C:\\Python310\\lib\\encodings\\cp932.py', 'PYMODULE'),
+  ('encodings.cp875', 'C:\\Python310\\lib\\encodings\\cp875.py', 'PYMODULE'),
+  ('encodings.cp874', 'C:\\Python310\\lib\\encodings\\cp874.py', 'PYMODULE'),
+  ('encodings.cp869', 'C:\\Python310\\lib\\encodings\\cp869.py', 'PYMODULE'),
+  ('encodings.cp866', 'C:\\Python310\\lib\\encodings\\cp866.py', 'PYMODULE'),
+  ('encodings.cp865', 'C:\\Python310\\lib\\encodings\\cp865.py', 'PYMODULE'),
+  ('encodings.cp864', 'C:\\Python310\\lib\\encodings\\cp864.py', 'PYMODULE'),
+  ('encodings.cp863', 'C:\\Python310\\lib\\encodings\\cp863.py', 'PYMODULE'),
+  ('encodings.cp862', 'C:\\Python310\\lib\\encodings\\cp862.py', 'PYMODULE'),
+  ('encodings.cp861', 'C:\\Python310\\lib\\encodings\\cp861.py', 'PYMODULE'),
+  ('encodings.cp860', 'C:\\Python310\\lib\\encodings\\cp860.py', 'PYMODULE'),
+  ('encodings.cp858', 'C:\\Python310\\lib\\encodings\\cp858.py', 'PYMODULE'),
+  ('encodings.cp857', 'C:\\Python310\\lib\\encodings\\cp857.py', 'PYMODULE'),
+  ('encodings.cp856', 'C:\\Python310\\lib\\encodings\\cp856.py', 'PYMODULE'),
+  ('encodings.cp855', 'C:\\Python310\\lib\\encodings\\cp855.py', 'PYMODULE'),
+  ('encodings.cp852', 'C:\\Python310\\lib\\encodings\\cp852.py', 'PYMODULE'),
+  ('encodings.cp850', 'C:\\Python310\\lib\\encodings\\cp850.py', 'PYMODULE'),
+  ('encodings.cp775', 'C:\\Python310\\lib\\encodings\\cp775.py', 'PYMODULE'),
+  ('encodings.cp737', 'C:\\Python310\\lib\\encodings\\cp737.py', 'PYMODULE'),
+  ('encodings.cp720', 'C:\\Python310\\lib\\encodings\\cp720.py', 'PYMODULE'),
+  ('encodings.cp500', 'C:\\Python310\\lib\\encodings\\cp500.py', 'PYMODULE'),
+  ('encodings.cp437', 'C:\\Python310\\lib\\encodings\\cp437.py', 'PYMODULE'),
+  ('encodings.cp424', 'C:\\Python310\\lib\\encodings\\cp424.py', 'PYMODULE'),
+  ('encodings.cp273', 'C:\\Python310\\lib\\encodings\\cp273.py', 'PYMODULE'),
+  ('encodings.cp1258', 'C:\\Python310\\lib\\encodings\\cp1258.py', 'PYMODULE'),
+  ('encodings.cp1257', 'C:\\Python310\\lib\\encodings\\cp1257.py', 'PYMODULE'),
+  ('encodings.cp1256', 'C:\\Python310\\lib\\encodings\\cp1256.py', 'PYMODULE'),
+  ('encodings.cp1255', 'C:\\Python310\\lib\\encodings\\cp1255.py', 'PYMODULE'),
+  ('encodings.cp1254', 'C:\\Python310\\lib\\encodings\\cp1254.py', 'PYMODULE'),
+  ('encodings.cp1253', 'C:\\Python310\\lib\\encodings\\cp1253.py', 'PYMODULE'),
+  ('encodings.cp1252', 'C:\\Python310\\lib\\encodings\\cp1252.py', 'PYMODULE'),
+  ('encodings.cp1251', 'C:\\Python310\\lib\\encodings\\cp1251.py', 'PYMODULE'),
+  ('encodings.cp1250', 'C:\\Python310\\lib\\encodings\\cp1250.py', 'PYMODULE'),
+  ('encodings.cp1140', 'C:\\Python310\\lib\\encodings\\cp1140.py', 'PYMODULE'),
+  ('encodings.cp1125', 'C:\\Python310\\lib\\encodings\\cp1125.py', 'PYMODULE'),
+  ('encodings.cp1026', 'C:\\Python310\\lib\\encodings\\cp1026.py', 'PYMODULE'),
+  ('encodings.cp1006', 'C:\\Python310\\lib\\encodings\\cp1006.py', 'PYMODULE'),
+  ('encodings.cp037', 'C:\\Python310\\lib\\encodings\\cp037.py', 'PYMODULE'),
+  ('encodings.charmap',
+   'C:\\Python310\\lib\\encodings\\charmap.py',
+   'PYMODULE'),
+  ('encodings.bz2_codec',
+   'C:\\Python310\\lib\\encodings\\bz2_codec.py',
+   'PYMODULE'),
+  ('encodings.big5hkscs',
+   'C:\\Python310\\lib\\encodings\\big5hkscs.py',
+   'PYMODULE'),
+  ('encodings.big5', 'C:\\Python310\\lib\\encodings\\big5.py', 'PYMODULE'),
+  ('encodings.base64_codec',
+   'C:\\Python310\\lib\\encodings\\base64_codec.py',
+   'PYMODULE'),
+  ('encodings.ascii', 'C:\\Python310\\lib\\encodings\\ascii.py', 'PYMODULE'),
+  ('encodings.aliases',
+   'C:\\Python310\\lib\\encodings\\aliases.py',
+   'PYMODULE'),
+  ('encodings', 'C:\\Python310\\lib\\encodings\\__init__.py', 'PYMODULE'),
+  ('codecs', 'C:\\Python310\\lib\\codecs.py', 'PYMODULE'),
+  ('ntpath', 'C:\\Python310\\lib\\ntpath.py', 'PYMODULE'),
+  ('functools', 'C:\\Python310\\lib\\functools.py', 'PYMODULE'),
+  ('_collections_abc', 'C:\\Python310\\lib\\_collections_abc.py', 'PYMODULE'),
+  ('types', 'C:\\Python310\\lib\\types.py', 'PYMODULE'),
+  ('reprlib', 'C:\\Python310\\lib\\reprlib.py', 'PYMODULE'),
+  ('_weakrefset', 'C:\\Python310\\lib\\_weakrefset.py', 'PYMODULE'),
+  ('sre_compile', 'C:\\Python310\\lib\\sre_compile.py', 'PYMODULE'),
+  ('abc', 'C:\\Python310\\lib\\abc.py', 'PYMODULE'),
+  ('locale', 'C:\\Python310\\lib\\locale.py', 'PYMODULE'),
+  ('keyword', 'C:\\Python310\\lib\\keyword.py', 'PYMODULE')])
